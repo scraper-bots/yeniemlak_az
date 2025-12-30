@@ -1,0 +1,1847 @@
+11:56:26 | 
+==================================================
+11:56:26 | YENIEMLAK.AZ SCRAPER
+11:56:26 | ==================================================
+11:56:26 | Started at: 2025-12-30 11:56:26.246395
+11:56:26 | Pages: 1 to all
+11:56:26 | Max concurrent requests: 2
+11:56:26 | Checkpoint interval: every 25 listings
+11:56:26 | Press Ctrl+C to stop and save progress
+11:56:26 | ==================================================
+11:56:26 | Loaded checkpoint: 0 listings completed
+11:56:26 | 
+==================================================
+11:56:26 | PHASE 1: Collecting listing URLs
+11:56:26 | ==================================================
+11:56:26 | Fetching first page...
+11:56:26 | Total pages to scrape: 1485
+11:56:26 | Resuming from page 410
+11:56:28 |   Page 410/1485: 25 listings (total: 25)
+11:56:29 |   Page 411/1485: 25 listings (total: 50)
+11:56:30 |   Page 412/1485: 25 listings (total: 75)
+11:56:32 |   Page 413/1485: 25 listings (total: 100)
+11:56:33 |   Page 414/1485: 25 listings (total: 125)
+11:56:35 |   Page 415/1485: 25 listings (total: 150)
+11:56:36 |   Page 416/1485: 25 listings (total: 175)
+11:56:37 |   Page 417/1485: 25 listings (total: 200)
+11:56:39 |   Page 418/1485: 25 listings (total: 225)
+11:56:40 |   Page 419/1485: 25 listings (total: 250)
+11:56:42 |   Page 420/1485: 25 listings (total: 275)
+11:56:43 |   Page 421/1485: 25 listings (total: 300)
+11:56:45 |   Page 422/1485: 25 listings (total: 325)
+11:56:46 |   Page 423/1485: 25 listings (total: 350)
+11:56:47 |   Page 424/1485: 25 listings (total: 375)
+11:56:49 |   Page 425/1485: 25 listings (total: 400)
+11:56:50 |   Page 426/1485: 25 listings (total: 425)
+11:56:52 |   Page 427/1485: 25 listings (total: 450)
+11:56:53 |   Page 428/1485: 25 listings (total: 475)
+11:56:54 |   Page 429/1485: 25 listings (total: 500)
+11:56:56 |   Page 430/1485: 25 listings (total: 525)
+11:56:57 |   Page 431/1485: 25 listings (total: 550)
+11:56:59 |   Page 432/1485: 25 listings (total: 575)
+11:57:00 |   Page 433/1485: 25 listings (total: 600)
+11:57:01 |   Page 434/1485: 25 listings (total: 625)
+11:57:03 |   Page 435/1485: 25 listings (total: 650)
+11:57:04 |   Page 436/1485: 25 listings (total: 675)
+11:57:06 |   Page 437/1485: 25 listings (total: 700)
+11:57:07 |   Page 438/1485: 25 listings (total: 725)
+11:57:08 |   Page 439/1485: 25 listings (total: 750)
+11:57:10 |   Page 440/1485: 25 listings (total: 775)
+11:57:11 |   Page 441/1485: 25 listings (total: 800)
+11:57:13 |   Page 442/1485: 25 listings (total: 825)
+11:57:14 |   Page 443/1485: 25 listings (total: 850)
+11:57:15 |   Page 444/1485: 25 listings (total: 875)
+11:57:17 |   Page 445/1485: 25 listings (total: 900)
+11:57:18 |   Page 446/1485: 25 listings (total: 925)
+11:57:19 | Rate limited, waiting 10s...
+11:57:30 |   Page 447/1485: 25 listings (total: 950)
+11:57:31 |   Page 448/1485: 25 listings (total: 975)
+11:57:32 |   Page 449/1485: 25 listings (total: 1000)
+11:57:34 |   Page 450/1485: 25 listings (total: 1025)
+11:57:35 |   Page 451/1485: 25 listings (total: 1050)
+11:57:37 |   Page 452/1485: 25 listings (total: 1075)
+11:57:38 |   Page 453/1485: 25 listings (total: 1100)
+11:57:40 |   Page 454/1485: 25 listings (total: 1125)
+11:57:41 |   Page 455/1485: 25 listings (total: 1150)
+11:57:42 | Rate limited, waiting 10s...
+11:57:53 |   Page 456/1485: 25 listings (total: 1175)
+11:57:54 |   Page 457/1485: 25 listings (total: 1200)
+11:57:55 |   Page 458/1485: 25 listings (total: 1225)
+11:57:57 |   Page 459/1485: 25 listings (total: 1250)
+11:57:58 |   Page 460/1485: 25 listings (total: 1275)
+11:57:59 |   Page 461/1485: 25 listings (total: 1300)
+11:58:01 |   Page 462/1485: 25 listings (total: 1325)
+11:58:02 |   Page 463/1485: 25 listings (total: 1350)
+11:58:04 |   Page 464/1485: 25 listings (total: 1375)
+11:58:05 |   Page 465/1485: 25 listings (total: 1400)
+11:58:06 |   Page 466/1485: 25 listings (total: 1425)
+11:58:07 | Rate limited, waiting 10s...
+11:58:18 |   Page 467/1485: 25 listings (total: 1450)
+11:58:19 |   Page 468/1485: 25 listings (total: 1475)
+11:58:21 |   Page 469/1485: 25 listings (total: 1500)
+11:58:22 |   Page 470/1485: 25 listings (total: 1525)
+11:58:24 |   Page 471/1485: 25 listings (total: 1550)
+11:58:25 |   Page 472/1485: 25 listings (total: 1575)
+11:58:26 |   Page 473/1485: 25 listings (total: 1600)
+11:58:28 |   Page 474/1485: 25 listings (total: 1625)
+11:58:29 |   Page 475/1485: 25 listings (total: 1650)
+11:58:31 |   Page 476/1485: 25 listings (total: 1675)
+11:58:32 |   Page 477/1485: 25 listings (total: 1700)
+11:58:33 |   Page 478/1485: 25 listings (total: 1725)
+11:58:35 |   Page 479/1485: 25 listings (total: 1750)
+11:58:36 |   Page 480/1485: 25 listings (total: 1775)
+11:58:38 |   Page 481/1485: 25 listings (total: 1800)
+11:58:39 | Rate limited, waiting 10s...
+11:58:49 |   Page 482/1485: 25 listings (total: 1825)
+11:58:51 |   Page 483/1485: 25 listings (total: 1850)
+11:58:52 |   Page 484/1485: 25 listings (total: 1875)
+11:58:53 |   Page 485/1485: 25 listings (total: 1900)
+11:58:55 |   Page 486/1485: 25 listings (total: 1925)
+11:58:56 |   Page 487/1485: 25 listings (total: 1950)
+11:58:58 |   Page 488/1485: 25 listings (total: 1975)
+11:58:59 |   Page 489/1485: 25 listings (total: 2000)
+11:59:00 |   Page 490/1485: 25 listings (total: 2025)
+11:59:02 |   Page 491/1485: 25 listings (total: 2050)
+11:59:03 |   Page 492/1485: 25 listings (total: 2075)
+11:59:05 |   Page 493/1485: 25 listings (total: 2100)
+11:59:06 |   Page 494/1485: 25 listings (total: 2125)
+11:59:08 |   Page 495/1485: 25 listings (total: 2150)
+11:59:09 |   Page 496/1485: 25 listings (total: 2175)
+11:59:10 | Rate limited, waiting 10s...
+11:59:21 |   Page 497/1485: 25 listings (total: 2200)
+11:59:22 |   Page 498/1485: 25 listings (total: 2225)
+11:59:24 |   Page 499/1485: 25 listings (total: 2250)
+11:59:25 |   Page 500/1485: 25 listings (total: 2275)
+11:59:27 |   Page 501/1485: 25 listings (total: 2300)
+11:59:28 |   Page 502/1485: 25 listings (total: 2325)
+11:59:30 |   Page 503/1485: 25 listings (total: 2350)
+11:59:31 |   Page 504/1485: 25 listings (total: 2375)
+11:59:32 |   Page 505/1485: 25 listings (total: 2400)
+11:59:34 |   Page 506/1485: 25 listings (total: 2425)
+11:59:35 |   Page 507/1485: 25 listings (total: 2450)
+11:59:37 |   Page 508/1485: 25 listings (total: 2475)
+11:59:38 |   Page 509/1485: 25 listings (total: 2500)
+11:59:40 |   Page 510/1485: 25 listings (total: 2525)
+11:59:41 |   Page 511/1485: 25 listings (total: 2550)
+11:59:42 | Rate limited, waiting 10s...
+11:59:53 |   Page 512/1485: 25 listings (total: 2575)
+11:59:55 |   Page 513/1485: 25 listings (total: 2600)
+11:59:56 |   Page 514/1485: 25 listings (total: 2625)
+11:59:57 |   Page 515/1485: 25 listings (total: 2650)
+11:59:59 |   Page 516/1485: 25 listings (total: 2675)
+12:00:00 |   Page 517/1485: 25 listings (total: 2700)
+12:00:02 |   Page 518/1485: 25 listings (total: 2725)
+12:00:03 |   Page 519/1485: 25 listings (total: 2750)
+12:00:05 |   Page 520/1485: 25 listings (total: 2775)
+12:00:06 |   Page 521/1485: 25 listings (total: 2800)
+12:00:08 |   Page 522/1485: 25 listings (total: 2825)
+12:00:09 |   Page 523/1485: 25 listings (total: 2850)
+12:00:10 |   Page 524/1485: 25 listings (total: 2875)
+12:00:12 |   Page 525/1485: 25 listings (total: 2900)
+12:00:13 |   Page 526/1485: 25 listings (total: 2925)
+12:00:15 | Rate limited, waiting 10s...
+12:00:25 |   Page 527/1485: 25 listings (total: 2950)
+12:00:27 |   Page 528/1485: 25 listings (total: 2975)
+12:00:28 |   Page 529/1485: 25 listings (total: 3000)
+12:00:30 |   Page 530/1485: 25 listings (total: 3025)
+12:00:31 |   Page 531/1485: 25 listings (total: 3050)
+12:00:32 |   Page 532/1485: 25 listings (total: 3075)
+12:00:34 |   Page 533/1485: 25 listings (total: 3100)
+12:00:35 |   Page 534/1485: 25 listings (total: 3125)
+12:00:37 |   Page 535/1485: 25 listings (total: 3150)
+12:00:38 |   Page 536/1485: 25 listings (total: 3175)
+12:00:40 |   Page 537/1485: 25 listings (total: 3200)
+12:00:41 |   Page 538/1485: 25 listings (total: 3225)
+12:00:42 |   Page 539/1485: 25 listings (total: 3250)
+12:00:43 | Rate limited, waiting 10s...
+12:00:54 |   Page 540/1485: 25 listings (total: 3275)
+12:00:55 |   Page 541/1485: 25 listings (total: 3300)
+12:00:57 |   Page 542/1485: 25 listings (total: 3325)
+12:00:58 |   Page 543/1485: 25 listings (total: 3350)
+12:01:00 |   Page 544/1485: 25 listings (total: 3375)
+12:01:01 |   Page 545/1485: 25 listings (total: 3400)
+12:01:03 |   Page 546/1485: 25 listings (total: 3425)
+12:01:04 |   Page 547/1485: 25 listings (total: 3450)
+12:01:05 |   Page 548/1485: 25 listings (total: 3475)
+12:01:07 |   Page 549/1485: 25 listings (total: 3500)
+12:01:08 |   Page 550/1485: 25 listings (total: 3525)
+12:01:10 |   Page 551/1485: 25 listings (total: 3550)
+12:01:11 |   Page 552/1485: 25 listings (total: 3575)
+12:01:12 | Rate limited, waiting 10s...
+12:01:23 |   Page 553/1485: 25 listings (total: 3600)
+12:01:24 |   Page 554/1485: 25 listings (total: 3625)
+12:01:26 |   Page 555/1485: 25 listings (total: 3650)
+12:01:27 |   Page 556/1485: 25 listings (total: 3675)
+12:01:29 |   Page 557/1485: 25 listings (total: 3700)
+12:01:30 |   Page 558/1485: 25 listings (total: 3725)
+12:01:31 |   Page 559/1485: 25 listings (total: 3750)
+12:01:33 |   Page 560/1485: 25 listings (total: 3775)
+12:01:34 |   Page 561/1485: 25 listings (total: 3800)
+12:01:36 |   Page 562/1485: 25 listings (total: 3825)
+12:01:37 |   Page 563/1485: 25 listings (total: 3850)
+12:01:38 |   Page 564/1485: 25 listings (total: 3875)
+12:01:39 | Rate limited, waiting 10s...
+12:01:50 |   Page 565/1485: 25 listings (total: 3900)
+12:01:51 |   Page 566/1485: 25 listings (total: 3925)
+12:01:53 |   Page 567/1485: 25 listings (total: 3950)
+12:01:54 |   Page 568/1485: 25 listings (total: 3975)
+12:01:55 |   Page 569/1485: 25 listings (total: 4000)
+12:01:57 |   Page 570/1485: 25 listings (total: 4025)
+12:01:58 |   Page 571/1485: 25 listings (total: 4050)
+12:01:59 |   Page 572/1485: 25 listings (total: 4075)
+12:02:01 |   Page 573/1485: 25 listings (total: 4100)
+12:02:02 |   Page 574/1485: 25 listings (total: 4125)
+12:02:03 |   Page 575/1485: 25 listings (total: 4150)
+12:02:05 |   Page 576/1485: 25 listings (total: 4175)
+12:02:06 |   Page 577/1485: 25 listings (total: 4200)
+12:02:07 | Rate limited, waiting 10s...
+12:02:18 |   Page 578/1485: 25 listings (total: 4225)
+12:02:19 |   Page 579/1485: 25 listings (total: 4250)
+12:02:21 |   Page 580/1485: 25 listings (total: 4275)
+12:02:22 |   Page 581/1485: 25 listings (total: 4300)
+12:02:23 |   Page 582/1485: 25 listings (total: 4325)
+12:02:25 |   Page 583/1485: 25 listings (total: 4350)
+12:02:26 |   Page 584/1485: 25 listings (total: 4375)
+12:02:28 |   Page 585/1485: 25 listings (total: 4400)
+12:02:29 |   Page 586/1485: 25 listings (total: 4425)
+12:02:30 |   Page 587/1485: 25 listings (total: 4450)
+12:02:32 |   Page 588/1485: 25 listings (total: 4475)
+12:02:33 |   Page 589/1485: 25 listings (total: 4500)
+12:02:34 |   Page 590/1485: 25 listings (total: 4525)
+12:02:36 |   Page 591/1485: 25 listings (total: 4550)
+12:02:37 |   Page 592/1485: 25 listings (total: 4575)
+12:02:38 | Rate limited, waiting 10s...
+12:02:49 |   Page 593/1485: 25 listings (total: 4600)
+12:02:50 |   Page 594/1485: 25 listings (total: 4625)
+12:02:52 |   Page 595/1485: 25 listings (total: 4650)
+12:02:53 |   Page 596/1485: 25 listings (total: 4675)
+12:02:54 |   Page 597/1485: 25 listings (total: 4700)
+12:02:56 |   Page 598/1485: 25 listings (total: 4725)
+12:02:57 |   Page 599/1485: 25 listings (total: 4750)
+12:02:58 |   Page 600/1485: 25 listings (total: 4775)
+12:03:00 |   Page 601/1485: 25 listings (total: 4800)
+12:03:01 |   Page 602/1485: 25 listings (total: 4825)
+12:03:03 |   Page 603/1485: 25 listings (total: 4850)
+12:03:04 |   Page 604/1485: 25 listings (total: 4875)
+12:03:06 |   Page 605/1485: 25 listings (total: 4900)
+12:03:07 |   Page 606/1485: 25 listings (total: 4925)
+12:03:08 | Rate limited, waiting 10s...
+12:03:19 |   Page 607/1485: 25 listings (total: 4950)
+12:03:20 |   Page 608/1485: 25 listings (total: 4975)
+12:03:21 |   Page 609/1485: 25 listings (total: 5000)
+12:03:23 |   Page 610/1485: 25 listings (total: 5025)
+12:03:24 |   Page 611/1485: 25 listings (total: 5050)
+12:03:26 |   Page 612/1485: 25 listings (total: 5075)
+12:03:27 |   Page 613/1485: 25 listings (total: 5100)
+12:03:29 |   Page 614/1485: 25 listings (total: 5125)
+12:03:30 |   Page 615/1485: 25 listings (total: 5150)
+12:03:31 |   Page 616/1485: 25 listings (total: 5175)
+12:03:33 |   Page 617/1485: 25 listings (total: 5200)
+12:03:34 |   Page 618/1485: 25 listings (total: 5225)
+12:03:36 |   Page 619/1485: 25 listings (total: 5250)
+12:03:37 |   Page 620/1485: 25 listings (total: 5275)
+12:03:39 |   Page 621/1485: 25 listings (total: 5300)
+12:03:40 | Rate limited, waiting 10s...
+12:03:50 |   Page 622/1485: 25 listings (total: 5325)
+12:03:52 |   Page 623/1485: 25 listings (total: 5350)
+12:03:53 |   Page 624/1485: 25 listings (total: 5375)
+12:03:55 |   Page 625/1485: 25 listings (total: 5400)
+12:03:56 |   Page 626/1485: 25 listings (total: 5425)
+12:03:57 |   Page 627/1485: 25 listings (total: 5450)
+12:03:59 |   Page 628/1485: 25 listings (total: 5475)
+12:04:00 |   Page 629/1485: 25 listings (total: 5500)
+12:04:02 |   Page 630/1485: 25 listings (total: 5525)
+12:04:03 |   Page 631/1485: 25 listings (total: 5550)
+12:04:04 |   Page 632/1485: 25 listings (total: 5575)
+12:04:06 |   Page 633/1485: 25 listings (total: 5600)
+12:04:07 |   Page 634/1485: 25 listings (total: 5625)
+12:04:09 |   Page 635/1485: 25 listings (total: 5650)
+12:04:10 | Rate limited, waiting 10s...
+12:04:20 |   Page 636/1485: 25 listings (total: 5675)
+12:04:22 |   Page 637/1485: 25 listings (total: 5700)
+12:04:23 |   Page 638/1485: 25 listings (total: 5725)
+12:04:25 |   Page 639/1485: 25 listings (total: 5750)
+12:04:26 |   Page 640/1485: 25 listings (total: 5775)
+12:04:28 |   Page 641/1485: 25 listings (total: 5800)
+12:04:29 |   Page 642/1485: 25 listings (total: 5825)
+12:04:30 |   Page 643/1485: 25 listings (total: 5850)
+12:04:32 |   Page 644/1485: 25 listings (total: 5875)
+12:04:33 |   Page 645/1485: 25 listings (total: 5900)
+12:04:35 |   Page 646/1485: 25 listings (total: 5925)
+12:04:36 |   Page 647/1485: 25 listings (total: 5950)
+12:04:37 |   Page 648/1485: 25 listings (total: 5975)
+12:04:39 |   Page 649/1485: 25 listings (total: 6000)
+12:04:40 | Rate limited, waiting 10s...
+12:04:51 |   Page 650/1485: 25 listings (total: 6025)
+12:04:52 |   Page 651/1485: 25 listings (total: 6050)
+12:04:54 |   Page 652/1485: 25 listings (total: 6075)
+12:04:55 |   Page 653/1485: 25 listings (total: 6100)
+12:04:56 |   Page 654/1485: 25 listings (total: 6125)
+12:04:58 |   Page 655/1485: 25 listings (total: 6150)
+12:04:59 |   Page 656/1485: 25 listings (total: 6175)
+12:05:01 |   Page 657/1485: 25 listings (total: 6200)
+12:05:02 |   Page 658/1485: 25 listings (total: 6225)
+12:05:04 |   Page 659/1485: 25 listings (total: 6250)
+12:05:05 |   Page 660/1485: 25 listings (total: 6275)
+12:05:07 |   Page 661/1485: 25 listings (total: 6300)
+12:05:08 |   Page 662/1485: 25 listings (total: 6325)
+12:05:10 |   Page 663/1485: 25 listings (total: 6350)
+12:05:11 |   Page 664/1485: 25 listings (total: 6375)
+12:05:12 | Rate limited, waiting 10s...
+12:05:23 |   Page 665/1485: 25 listings (total: 6400)
+12:05:24 |   Page 666/1485: 25 listings (total: 6425)
+12:05:26 |   Page 667/1485: 25 listings (total: 6450)
+12:05:27 |   Page 668/1485: 25 listings (total: 6475)
+12:05:29 |   Page 669/1485: 25 listings (total: 6500)
+12:05:30 |   Page 670/1485: 25 listings (total: 6525)
+12:05:32 |   Page 671/1485: 25 listings (total: 6550)
+12:05:33 |   Page 672/1485: 25 listings (total: 6575)
+12:05:35 |   Page 673/1485: 25 listings (total: 6600)
+12:05:36 |   Page 674/1485: 25 listings (total: 6625)
+12:05:37 |   Page 675/1485: 25 listings (total: 6650)
+12:05:39 |   Page 676/1485: 25 listings (total: 6675)
+12:05:40 | Rate limited, waiting 10s...
+12:05:51 |   Page 677/1485: 25 listings (total: 6700)
+12:05:52 |   Page 678/1485: 25 listings (total: 6725)
+12:05:53 |   Page 679/1485: 25 listings (total: 6750)
+12:05:55 |   Page 680/1485: 25 listings (total: 6775)
+12:05:57 |   Page 681/1485: 25 listings (total: 6800)
+12:05:58 |   Page 682/1485: 25 listings (total: 6825)
+12:05:59 |   Page 683/1485: 25 listings (total: 6850)
+12:06:01 |   Page 684/1485: 25 listings (total: 6875)
+12:06:02 |   Page 685/1485: 25 listings (total: 6900)
+12:06:04 |   Page 686/1485: 25 listings (total: 6925)
+12:06:05 |   Page 687/1485: 25 listings (total: 6950)
+12:06:07 |   Page 688/1485: 25 listings (total: 6975)
+12:06:08 |   Page 689/1485: 25 listings (total: 7000)
+12:06:09 | Rate limited, waiting 10s...
+12:06:20 |   Page 690/1485: 25 listings (total: 7025)
+12:06:21 |   Page 691/1485: 25 listings (total: 7050)
+12:06:23 |   Page 692/1485: 25 listings (total: 7075)
+12:06:24 |   Page 693/1485: 25 listings (total: 7100)
+12:06:26 |   Page 694/1485: 25 listings (total: 7125)
+12:06:27 |   Page 695/1485: 25 listings (total: 7150)
+12:06:28 |   Page 696/1485: 25 listings (total: 7175)
+12:06:30 |   Page 697/1485: 25 listings (total: 7200)
+12:06:31 |   Page 698/1485: 25 listings (total: 7225)
+12:06:33 |   Page 699/1485: 25 listings (total: 7250)
+12:06:34 |   Page 700/1485: 25 listings (total: 7275)
+12:06:36 |   Page 701/1485: 25 listings (total: 7300)
+12:06:37 | Rate limited, waiting 10s...
+12:06:47 |   Page 702/1485: 25 listings (total: 7325)
+12:06:49 |   Page 703/1485: 25 listings (total: 7350)
+12:06:50 |   Page 704/1485: 25 listings (total: 7375)
+12:06:52 |   Page 705/1485: 25 listings (total: 7400)
+12:06:53 |   Page 706/1485: 25 listings (total: 7425)
+12:06:55 |   Page 707/1485: 25 listings (total: 7450)
+12:06:56 |   Page 708/1485: 25 listings (total: 7475)
+12:06:57 |   Page 709/1485: 25 listings (total: 7500)
+12:06:59 |   Page 710/1485: 25 listings (total: 7525)
+12:07:00 |   Page 711/1485: 25 listings (total: 7550)
+12:07:02 |   Page 712/1485: 25 listings (total: 7575)
+12:07:03 |   Page 713/1485: 25 listings (total: 7600)
+12:07:05 |   Page 714/1485: 25 listings (total: 7625)
+12:07:06 |   Page 715/1485: 25 listings (total: 7650)
+12:07:07 |   Page 716/1485: 25 listings (total: 7675)
+12:07:09 |   Page 717/1485: 25 listings (total: 7700)
+12:07:10 | Rate limited, waiting 10s...
+12:07:21 |   Page 718/1485: 25 listings (total: 7725)
+12:07:22 |   Page 719/1485: 25 listings (total: 7750)
+12:07:23 |   Page 720/1485: 25 listings (total: 7775)
+12:07:25 |   Page 721/1485: 25 listings (total: 7800)
+12:07:26 |   Page 722/1485: 25 listings (total: 7825)
+12:07:28 |   Page 723/1485: 25 listings (total: 7850)
+12:07:29 |   Page 724/1485: 25 listings (total: 7875)
+12:07:31 |   Page 725/1485: 25 listings (total: 7900)
+12:07:32 |   Page 726/1485: 25 listings (total: 7925)
+12:07:33 |   Page 727/1485: 25 listings (total: 7950)
+12:07:35 |   Page 728/1485: 25 listings (total: 7975)
+12:07:36 |   Page 729/1485: 25 listings (total: 8000)
+12:07:38 |   Page 730/1485: 25 listings (total: 8025)
+12:07:39 |   Page 731/1485: 25 listings (total: 8050)
+12:07:40 | Rate limited, waiting 10s...
+12:07:51 |   Page 732/1485: 25 listings (total: 8075)
+12:07:52 |   Page 733/1485: 25 listings (total: 8100)
+12:07:54 |   Page 734/1485: 25 listings (total: 8125)
+12:07:55 |   Page 735/1485: 25 listings (total: 8150)
+12:07:56 |   Page 736/1485: 25 listings (total: 8175)
+12:07:58 |   Page 737/1485: 25 listings (total: 8200)
+12:07:59 |   Page 738/1485: 25 listings (total: 8225)
+12:08:01 |   Page 739/1485: 25 listings (total: 8250)
+12:08:02 |   Page 740/1485: 25 listings (total: 8275)
+12:08:04 |   Page 741/1485: 25 listings (total: 8300)
+12:08:05 |   Page 742/1485: 25 listings (total: 8325)
+12:08:07 |   Page 743/1485: 25 listings (total: 8350)
+12:08:08 |   Page 744/1485: 25 listings (total: 8375)
+12:08:10 |   Page 745/1485: 25 listings (total: 8400)
+12:08:11 |   Page 746/1485: 25 listings (total: 8425)
+12:08:12 | Rate limited, waiting 10s...
+12:08:23 |   Page 747/1485: 25 listings (total: 8450)
+12:08:24 |   Page 748/1485: 25 listings (total: 8475)
+12:08:26 |   Page 749/1485: 25 listings (total: 8500)
+12:08:27 |   Page 750/1485: 25 listings (total: 8525)
+12:08:28 |   Page 751/1485: 25 listings (total: 8550)
+12:08:30 |   Page 752/1485: 25 listings (total: 8575)
+12:08:31 |   Page 753/1485: 25 listings (total: 8600)
+12:08:33 |   Page 754/1485: 25 listings (total: 8625)
+12:08:34 |   Page 755/1485: 25 listings (total: 8650)
+12:08:36 |   Page 756/1485: 25 listings (total: 8675)
+12:08:37 |   Page 757/1485: 25 listings (total: 8700)
+12:08:39 |   Page 758/1485: 25 listings (total: 8725)
+12:08:40 |   Page 759/1485: 25 listings (total: 8750)
+12:08:41 |   Page 760/1485: 25 listings (total: 8775)
+12:08:43 |   Page 761/1485: 25 listings (total: 8800)
+12:08:44 | Rate limited, waiting 10s...
+12:08:55 |   Page 762/1485: 25 listings (total: 8825)
+12:08:56 |   Page 763/1485: 25 listings (total: 8850)
+12:08:57 |   Page 764/1485: 25 listings (total: 8875)
+12:08:59 |   Page 765/1485: 25 listings (total: 8900)
+12:09:00 |   Page 766/1485: 25 listings (total: 8925)
+12:09:02 |   Page 767/1485: 25 listings (total: 8950)
+12:09:03 |   Page 768/1485: 25 listings (total: 8975)
+12:09:05 |   Page 769/1485: 25 listings (total: 9000)
+12:09:06 |   Page 770/1485: 25 listings (total: 9025)
+12:09:07 |   Page 771/1485: 25 listings (total: 9050)
+12:09:09 |   Page 772/1485: 25 listings (total: 9075)
+12:09:10 |   Page 773/1485: 25 listings (total: 9100)
+12:09:12 |   Page 774/1485: 25 listings (total: 9125)
+12:09:13 | Rate limited, waiting 10s...
+12:09:23 |   Page 775/1485: 25 listings (total: 9150)
+12:09:25 |   Page 776/1485: 25 listings (total: 9175)
+12:09:26 |   Page 777/1485: 25 listings (total: 9200)
+12:09:28 |   Page 778/1485: 25 listings (total: 9225)
+12:09:29 |   Page 779/1485: 25 listings (total: 9250)
+12:09:31 |   Page 780/1485: 25 listings (total: 9275)
+12:09:32 |   Page 781/1485: 25 listings (total: 9300)
+12:09:33 |   Page 782/1485: 25 listings (total: 9325)
+12:09:35 |   Page 783/1485: 25 listings (total: 9350)
+12:09:36 |   Page 784/1485: 25 listings (total: 9375)
+12:09:37 |   Page 785/1485: 25 listings (total: 9400)
+12:09:39 |   Page 786/1485: 25 listings (total: 9425)
+12:09:40 |   Page 787/1485: 25 listings (total: 9450)
+12:09:41 | Rate limited, waiting 10s...
+12:09:52 |   Page 788/1485: 25 listings (total: 9475)
+12:09:53 |   Page 789/1485: 25 listings (total: 9500)
+12:09:55 |   Page 790/1485: 25 listings (total: 9525)
+12:09:56 |   Page 791/1485: 25 listings (total: 9550)
+12:09:58 |   Page 792/1485: 25 listings (total: 9575)
+12:09:59 |   Page 793/1485: 25 listings (total: 9600)
+12:10:01 |   Page 794/1485: 25 listings (total: 9625)
+12:10:02 |   Page 795/1485: 25 listings (total: 9650)
+12:10:04 |   Page 796/1485: 25 listings (total: 9675)
+12:10:05 |   Page 797/1485: 25 listings (total: 9700)
+12:10:07 |   Page 798/1485: 25 listings (total: 9725)
+12:10:08 |   Page 799/1485: 25 listings (total: 9750)
+12:10:09 |   Page 800/1485: 25 listings (total: 9775)
+12:10:11 |   Page 801/1485: 25 listings (total: 9800)
+12:10:12 | Rate limited, waiting 10s...
+12:10:23 |   Page 802/1485: 25 listings (total: 9825)
+12:10:24 |   Page 803/1485: 25 listings (total: 9850)
+12:10:26 |   Page 804/1485: 25 listings (total: 9875)
+12:10:27 |   Page 805/1485: 25 listings (total: 9900)
+12:10:28 |   Page 806/1485: 25 listings (total: 9925)
+12:10:30 |   Page 807/1485: 25 listings (total: 9950)
+12:10:31 |   Page 808/1485: 25 listings (total: 9975)
+12:10:33 |   Page 809/1485: 25 listings (total: 10000)
+12:10:34 |   Page 810/1485: 25 listings (total: 10025)
+12:10:36 |   Page 811/1485: 25 listings (total: 10050)
+12:10:37 |   Page 812/1485: 25 listings (total: 10075)
+12:10:39 |   Page 813/1485: 25 listings (total: 10100)
+12:10:40 |   Page 814/1485: 25 listings (total: 10125)
+12:10:41 |   Page 815/1485: 25 listings (total: 10150)
+12:10:43 |   Page 816/1485: 25 listings (total: 10175)
+12:10:44 | Rate limited, waiting 10s...
+12:10:55 |   Page 817/1485: 25 listings (total: 10200)
+12:10:56 |   Page 818/1485: 25 listings (total: 10225)
+12:10:58 |   Page 819/1485: 25 listings (total: 10250)
+12:10:59 |   Page 820/1485: 25 listings (total: 10275)
+12:11:01 |   Page 821/1485: 25 listings (total: 10300)
+12:11:02 |   Page 822/1485: 25 listings (total: 10325)
+12:11:04 |   Page 823/1485: 25 listings (total: 10350)
+12:11:05 |   Page 824/1485: 25 listings (total: 10375)
+12:11:07 |   Page 825/1485: 25 listings (total: 10400)
+12:11:08 |   Page 826/1485: 25 listings (total: 10425)
+12:11:09 |   Page 827/1485: 25 listings (total: 10450)
+12:11:11 |   Page 828/1485: 25 listings (total: 10475)
+12:11:12 |   Page 829/1485: 25 listings (total: 10500)
+12:11:14 |   Page 830/1485: 25 listings (total: 10525)
+12:11:15 | Rate limited, waiting 10s...
+12:11:26 |   Page 831/1485: 25 listings (total: 10550)
+12:11:27 |   Page 832/1485: 25 listings (total: 10575)
+12:11:29 |   Page 833/1485: 25 listings (total: 10600)
+12:11:30 |   Page 834/1485: 25 listings (total: 10625)
+12:11:31 |   Page 835/1485: 25 listings (total: 10650)
+12:11:33 |   Page 836/1485: 25 listings (total: 10675)
+12:11:34 |   Page 837/1485: 25 listings (total: 10700)
+12:11:36 |   Page 838/1485: 25 listings (total: 10725)
+12:11:37 |   Page 839/1485: 25 listings (total: 10750)
+12:11:38 |   Page 840/1485: 25 listings (total: 10775)
+12:11:40 |   Page 841/1485: 25 listings (total: 10800)
+12:11:41 |   Page 842/1485: 25 listings (total: 10825)
+12:11:43 |   Page 843/1485: 25 listings (total: 10850)
+12:11:44 | Rate limited, waiting 10s...
+12:11:54 |   Page 844/1485: 25 listings (total: 10875)
+12:11:56 |   Page 845/1485: 25 listings (total: 10900)
+12:11:57 |   Page 846/1485: 25 listings (total: 10925)
+12:11:59 |   Page 847/1485: 25 listings (total: 10950)
+12:12:00 |   Page 848/1485: 25 listings (total: 10975)
+12:12:02 |   Page 849/1485: 25 listings (total: 11000)
+12:12:03 |   Page 850/1485: 25 listings (total: 11025)
+12:12:05 |   Page 851/1485: 25 listings (total: 11050)
+12:12:06 |   Page 852/1485: 25 listings (total: 11075)
+12:12:08 |   Page 853/1485: 25 listings (total: 11100)
+12:12:09 |   Page 854/1485: 25 listings (total: 11125)
+12:12:11 |   Page 855/1485: 25 listings (total: 11150)
+12:12:12 |   Page 856/1485: 25 listings (total: 11175)
+12:12:13 |   Page 857/1485: 25 listings (total: 11200)
+12:12:15 | Rate limited, waiting 10s...
+12:12:25 |   Page 858/1485: 25 listings (total: 11225)
+12:12:27 |   Page 859/1485: 25 listings (total: 11250)
+12:12:28 |   Page 860/1485: 25 listings (total: 11275)
+12:12:29 |   Page 861/1485: 25 listings (total: 11300)
+12:12:31 |   Page 862/1485: 25 listings (total: 11325)
+12:12:32 |   Page 863/1485: 25 listings (total: 11350)
+12:12:34 |   Page 864/1485: 25 listings (total: 11375)
+12:12:35 |   Page 865/1485: 25 listings (total: 11400)
+12:12:37 |   Page 866/1485: 25 listings (total: 11425)
+12:12:38 |   Page 867/1485: 25 listings (total: 11450)
+12:12:39 |   Page 868/1485: 25 listings (total: 11475)
+12:12:41 |   Page 869/1485: 25 listings (total: 11500)
+12:12:42 |   Page 870/1485: 25 listings (total: 11525)
+12:12:43 | Rate limited, waiting 10s...
+12:12:54 |   Page 871/1485: 25 listings (total: 11550)
+12:12:55 |   Page 872/1485: 25 listings (total: 11575)
+12:12:57 |   Page 873/1485: 25 listings (total: 11600)
+12:12:58 |   Page 874/1485: 25 listings (total: 11625)
+12:13:00 |   Page 875/1485: 25 listings (total: 11650)
+12:13:01 |   Page 876/1485: 25 listings (total: 11675)
+12:13:03 |   Page 877/1485: 25 listings (total: 11700)
+12:13:04 |   Page 878/1485: 25 listings (total: 11725)
+12:13:06 |   Page 879/1485: 25 listings (total: 11750)
+12:13:07 |   Page 880/1485: 25 listings (total: 11775)
+12:13:09 |   Page 881/1485: 25 listings (total: 11800)
+12:13:10 |   Page 882/1485: 25 listings (total: 11825)
+12:13:11 |   Page 883/1485: 25 listings (total: 11850)
+12:13:12 | Rate limited, waiting 10s...
+12:13:23 |   Page 884/1485: 25 listings (total: 11875)
+12:13:25 |   Page 885/1485: 25 listings (total: 11900)
+12:13:26 |   Page 886/1485: 25 listings (total: 11925)
+12:13:27 |   Page 887/1485: 25 listings (total: 11950)
+12:13:29 |   Page 888/1485: 25 listings (total: 11975)
+12:13:30 |   Page 889/1485: 25 listings (total: 12000)
+12:13:32 |   Page 890/1485: 25 listings (total: 12025)
+12:13:33 |   Page 891/1485: 25 listings (total: 12050)
+12:13:34 |   Page 892/1485: 25 listings (total: 12075)
+12:13:36 |   Page 893/1485: 25 listings (total: 12100)
+12:13:37 |   Page 894/1485: 25 listings (total: 12125)
+12:13:39 |   Page 895/1485: 25 listings (total: 12150)
+12:13:40 |   Page 896/1485: 25 listings (total: 12175)
+12:13:41 | Rate limited, waiting 10s...
+12:13:52 |   Page 897/1485: 25 listings (total: 12200)
+12:13:53 |   Page 898/1485: 25 listings (total: 12225)
+12:13:55 |   Page 899/1485: 25 listings (total: 12250)
+12:13:56 |   Page 900/1485: 25 listings (total: 12275)
+12:13:58 |   Page 901/1485: 25 listings (total: 12300)
+12:13:59 |   Page 902/1485: 25 listings (total: 12325)
+12:14:00 |   Page 903/1485: 25 listings (total: 12350)
+12:14:02 |   Page 904/1485: 25 listings (total: 12375)
+12:14:04 |   Page 905/1485: 25 listings (total: 12400)
+12:14:05 |   Page 906/1485: 25 listings (total: 12425)
+12:14:06 |   Page 907/1485: 25 listings (total: 12450)
+12:14:08 |   Page 908/1485: 25 listings (total: 12475)
+12:14:09 |   Page 909/1485: 25 listings (total: 12500)
+12:14:11 |   Page 910/1485: 25 listings (total: 12525)
+12:14:12 | Rate limited, waiting 10s...
+12:14:22 |   Page 911/1485: 25 listings (total: 12550)
+12:14:24 |   Page 912/1485: 25 listings (total: 12575)
+12:14:25 |   Page 913/1485: 25 listings (total: 12600)
+12:14:27 |   Page 914/1485: 25 listings (total: 12625)
+12:14:28 |   Page 915/1485: 25 listings (total: 12650)
+12:14:29 |   Page 916/1485: 25 listings (total: 12675)
+12:14:31 |   Page 917/1485: 25 listings (total: 12700)
+12:14:32 |   Page 918/1485: 25 listings (total: 12725)
+12:14:34 |   Page 919/1485: 25 listings (total: 12750)
+12:14:35 |   Page 920/1485: 25 listings (total: 12775)
+12:14:37 |   Page 921/1485: 25 listings (total: 12800)
+12:14:38 |   Page 922/1485: 25 listings (total: 12825)
+12:14:39 |   Page 923/1485: 25 listings (total: 12850)
+12:14:41 |   Page 924/1485: 25 listings (total: 12875)
+12:14:42 | Rate limited, waiting 10s...
+12:14:53 |   Page 925/1485: 25 listings (total: 12900)
+12:14:54 |   Page 926/1485: 25 listings (total: 12925)
+12:14:55 |   Page 927/1485: 25 listings (total: 12950)
+12:14:57 |   Page 928/1485: 25 listings (total: 12975)
+12:14:58 |   Page 929/1485: 25 listings (total: 13000)
+12:15:00 |   Page 930/1485: 25 listings (total: 13025)
+12:15:01 |   Page 931/1485: 25 listings (total: 13050)
+12:15:03 |   Page 932/1485: 25 listings (total: 13075)
+12:15:04 |   Page 933/1485: 25 listings (total: 13100)
+12:15:06 |   Page 934/1485: 25 listings (total: 13125)
+12:15:07 |   Page 935/1485: 25 listings (total: 13150)
+12:15:09 |   Page 936/1485: 25 listings (total: 13175)
+12:15:10 |   Page 937/1485: 25 listings (total: 13200)
+12:15:12 |   Page 938/1485: 25 listings (total: 13225)
+12:15:13 | Rate limited, waiting 10s...
+12:15:23 |   Page 939/1485: 25 listings (total: 13250)
+12:15:25 |   Page 940/1485: 25 listings (total: 13275)
+12:15:26 |   Page 941/1485: 25 listings (total: 13300)
+12:15:28 |   Page 942/1485: 25 listings (total: 13325)
+12:15:29 |   Page 943/1485: 25 listings (total: 13350)
+12:15:31 |   Page 944/1485: 25 listings (total: 13375)
+12:15:32 |   Page 945/1485: 25 listings (total: 13400)
+12:15:34 |   Page 946/1485: 25 listings (total: 13425)
+12:15:35 |   Page 947/1485: 25 listings (total: 13450)
+12:15:37 |   Page 948/1485: 25 listings (total: 13475)
+12:15:38 |   Page 949/1485: 25 listings (total: 13500)
+12:15:40 |   Page 950/1485: 25 listings (total: 13525)
+12:15:41 |   Page 951/1485: 25 listings (total: 13550)
+12:15:43 |   Page 952/1485: 25 listings (total: 13575)
+12:15:44 | Rate limited, waiting 10s...
+12:15:54 |   Page 953/1485: 25 listings (total: 13600)
+12:15:56 |   Page 954/1485: 25 listings (total: 13625)
+12:15:57 |   Page 955/1485: 25 listings (total: 13650)
+12:15:59 |   Page 956/1485: 25 listings (total: 13675)
+12:16:00 |   Page 957/1485: 25 listings (total: 13700)
+12:16:02 |   Page 958/1485: 25 listings (total: 13725)
+12:16:03 |   Page 959/1485: 25 listings (total: 13750)
+12:16:05 |   Page 960/1485: 25 listings (total: 13775)
+12:16:06 |   Page 961/1485: 25 listings (total: 13800)
+12:16:07 |   Page 962/1485: 25 listings (total: 13825)
+12:16:09 |   Page 963/1485: 25 listings (total: 13850)
+12:16:10 |   Page 964/1485: 25 listings (total: 13875)
+12:16:12 |   Page 965/1485: 25 listings (total: 13900)
+12:16:13 | Rate limited, waiting 10s...
+12:16:23 |   Page 966/1485: 25 listings (total: 13925)
+12:16:25 |   Page 967/1485: 25 listings (total: 13950)
+12:16:26 |   Page 968/1485: 25 listings (total: 13975)
+12:16:28 |   Page 969/1485: 25 listings (total: 14000)
+12:16:29 |   Page 970/1485: 25 listings (total: 14025)
+12:16:31 |   Page 971/1485: 25 listings (total: 14050)
+12:16:32 |   Page 972/1485: 25 listings (total: 14075)
+12:16:34 |   Page 973/1485: 25 listings (total: 14100)
+12:16:35 |   Page 974/1485: 25 listings (total: 14125)
+12:16:37 |   Page 975/1485: 25 listings (total: 14150)
+12:16:38 |   Page 976/1485: 25 listings (total: 14175)
+12:16:39 |   Page 977/1485: 25 listings (total: 14200)
+12:16:41 |   Page 978/1485: 25 listings (total: 14225)
+12:16:42 |   Page 979/1485: 25 listings (total: 14250)
+12:16:43 | Rate limited, waiting 10s...
+12:16:54 |   Page 980/1485: 25 listings (total: 14275)
+12:16:56 |   Page 981/1485: 25 listings (total: 14300)
+12:16:57 |   Page 982/1485: 25 listings (total: 14325)
+12:16:58 |   Page 983/1485: 25 listings (total: 14350)
+12:17:00 |   Page 984/1485: 25 listings (total: 14375)
+12:17:01 |   Page 985/1485: 25 listings (total: 14400)
+12:17:03 |   Page 986/1485: 25 listings (total: 14425)
+12:17:05 |   Page 987/1485: 25 listings (total: 14450)
+12:17:06 |   Page 988/1485: 25 listings (total: 14475)
+12:17:08 |   Page 989/1485: 25 listings (total: 14500)
+12:17:09 |   Page 990/1485: 25 listings (total: 14525)
+12:17:11 |   Page 991/1485: 25 listings (total: 14550)
+12:17:12 |   Page 992/1485: 25 listings (total: 14575)
+12:17:14 |   Page 993/1485: 25 listings (total: 14600)
+12:17:15 | Rate limited, waiting 10s...
+12:17:25 |   Page 994/1485: 25 listings (total: 14625)
+12:17:27 |   Page 995/1485: 25 listings (total: 14650)
+12:17:28 |   Page 996/1485: 25 listings (total: 14675)
+12:17:30 |   Page 997/1485: 25 listings (total: 14700)
+12:17:31 |   Page 998/1485: 25 listings (total: 14725)
+12:17:32 |   Page 999/1485: 25 listings (total: 14750)
+12:17:34 |   Page 1000/1485: 25 listings (total: 14775)
+12:17:35 |   Page 1001/1485: 25 listings (total: 14800)
+12:17:37 |   Page 1002/1485: 25 listings (total: 14825)
+12:17:38 |   Page 1003/1485: 25 listings (total: 14850)
+12:17:40 |   Page 1004/1485: 25 listings (total: 14875)
+12:17:41 |   Page 1005/1485: 25 listings (total: 14900)
+12:17:42 |   Page 1006/1485: 25 listings (total: 14925)
+12:17:44 | Rate limited, waiting 10s...
+12:17:54 |   Page 1007/1485: 25 listings (total: 14950)
+12:17:56 |   Page 1008/1485: 25 listings (total: 14975)
+12:17:57 |   Page 1009/1485: 25 listings (total: 15000)
+12:17:59 |   Page 1010/1485: 25 listings (total: 15025)
+12:18:00 |   Page 1011/1485: 25 listings (total: 15050)
+12:18:02 |   Page 1012/1485: 25 listings (total: 15075)
+12:18:03 |   Page 1013/1485: 25 listings (total: 15100)
+12:18:05 |   Page 1014/1485: 25 listings (total: 15125)
+12:18:06 |   Page 1015/1485: 25 listings (total: 15150)
+12:18:08 |   Page 1016/1485: 25 listings (total: 15175)
+12:18:09 |   Page 1017/1485: 25 listings (total: 15200)
+12:18:10 |   Page 1018/1485: 25 listings (total: 15225)
+12:18:12 |   Page 1019/1485: 25 listings (total: 15250)
+12:18:13 |   Page 1020/1485: 25 listings (total: 15275)
+12:18:15 | Rate limited, waiting 10s...
+12:18:25 |   Page 1021/1485: 25 listings (total: 15300)
+12:18:27 |   Page 1022/1485: 25 listings (total: 15325)
+12:18:28 |   Page 1023/1485: 25 listings (total: 15350)
+12:18:29 |   Page 1024/1485: 25 listings (total: 15375)
+12:18:31 |   Page 1025/1485: 25 listings (total: 15400)
+12:18:32 |   Page 1026/1485: 25 listings (total: 15425)
+12:18:34 |   Page 1027/1485: 25 listings (total: 15450)
+12:18:35 |   Page 1028/1485: 25 listings (total: 15475)
+12:18:37 |   Page 1029/1485: 25 listings (total: 15500)
+12:18:38 |   Page 1030/1485: 25 listings (total: 15525)
+12:18:39 |   Page 1031/1485: 25 listings (total: 15550)
+12:18:41 |   Page 1032/1485: 25 listings (total: 15575)
+12:18:42 |   Page 1033/1485: 25 listings (total: 15600)
+12:18:43 | Rate limited, waiting 10s...
+12:18:54 |   Page 1034/1485: 25 listings (total: 15625)
+12:18:55 |   Page 1035/1485: 25 listings (total: 15650)
+12:18:57 |   Page 1036/1485: 25 listings (total: 15675)
+12:18:58 |   Page 1037/1485: 25 listings (total: 15700)
+12:18:59 |   Page 1038/1485: 25 listings (total: 15725)
+12:19:01 |   Page 1039/1485: 25 listings (total: 15750)
+12:19:02 |   Page 1040/1485: 25 listings (total: 15775)
+12:19:04 |   Page 1041/1485: 25 listings (total: 15800)
+12:19:05 |   Page 1042/1485: 25 listings (total: 15825)
+12:19:06 |   Page 1043/1485: 25 listings (total: 15850)
+12:19:08 |   Page 1044/1485: 25 listings (total: 15875)
+12:19:09 |   Page 1045/1485: 25 listings (total: 15900)
+12:19:11 |   Page 1046/1485: 25 listings (total: 15925)
+12:19:12 | Rate limited, waiting 10s...
+12:19:22 |   Page 1047/1485: 25 listings (total: 15950)
+12:19:24 |   Page 1048/1485: 25 listings (total: 15975)
+12:19:25 |   Page 1049/1485: 25 listings (total: 16000)
+12:19:27 |   Page 1050/1485: 25 listings (total: 16025)
+12:19:28 |   Page 1051/1485: 25 listings (total: 16050)
+12:19:29 |   Page 1052/1485: 25 listings (total: 16075)
+12:19:31 |   Page 1053/1485: 25 listings (total: 16100)
+12:19:32 |   Page 1054/1485: 25 listings (total: 16125)
+12:19:34 |   Page 1055/1485: 25 listings (total: 16150)
+12:19:35 |   Page 1056/1485: 25 listings (total: 16175)
+12:19:37 |   Page 1057/1485: 25 listings (total: 16200)
+12:19:38 |   Page 1058/1485: 25 listings (total: 16225)
+12:19:39 |   Page 1059/1485: 25 listings (total: 16250)
+12:19:41 |   Page 1060/1485: 25 listings (total: 16275)
+12:19:42 | Rate limited, waiting 10s...
+12:19:53 |   Page 1061/1485: 25 listings (total: 16300)
+12:19:54 |   Page 1062/1485: 25 listings (total: 16325)
+12:19:55 |   Page 1063/1485: 25 listings (total: 16350)
+12:19:57 |   Page 1064/1485: 25 listings (total: 16375)
+12:19:58 |   Page 1065/1485: 25 listings (total: 16400)
+12:20:00 |   Page 1066/1485: 25 listings (total: 16425)
+12:20:01 |   Page 1067/1485: 25 listings (total: 16450)
+12:20:02 |   Page 1068/1485: 25 listings (total: 16475)
+12:20:04 |   Page 1069/1485: 25 listings (total: 16500)
+12:20:05 |   Page 1070/1485: 25 listings (total: 16525)
+12:20:07 |   Page 1071/1485: 25 listings (total: 16550)
+12:20:08 |   Page 1072/1485: 25 listings (total: 16575)
+12:20:10 |   Page 1073/1485: 25 listings (total: 16600)
+12:20:11 |   Page 1074/1485: 25 listings (total: 16625)
+12:20:12 | Rate limited, waiting 10s...
+12:20:23 |   Page 1075/1485: 25 listings (total: 16650)
+12:20:24 |   Page 1076/1485: 25 listings (total: 16675)
+12:20:26 |   Page 1077/1485: 25 listings (total: 16700)
+12:20:27 |   Page 1078/1485: 25 listings (total: 16725)
+12:20:29 |   Page 1079/1485: 25 listings (total: 16750)
+12:20:30 |   Page 1080/1485: 25 listings (total: 16775)
+12:20:31 |   Page 1081/1485: 25 listings (total: 16800)
+12:20:33 |   Page 1082/1485: 25 listings (total: 16825)
+12:20:34 |   Page 1083/1485: 25 listings (total: 16850)
+12:20:36 |   Page 1084/1485: 25 listings (total: 16875)
+12:20:37 |   Page 1085/1485: 25 listings (total: 16900)
+12:20:39 |   Page 1086/1485: 25 listings (total: 16925)
+12:20:40 |   Page 1087/1485: 25 listings (total: 16950)
+12:20:42 |   Page 1088/1485: 25 listings (total: 16975)
+12:20:43 |   Page 1089/1485: 25 listings (total: 17000)
+12:20:44 | Rate limited, waiting 10s...
+12:20:55 |   Page 1090/1485: 25 listings (total: 17025)
+12:20:56 |   Page 1091/1485: 25 listings (total: 17050)
+12:20:58 |   Page 1092/1485: 25 listings (total: 17075)
+12:20:59 |   Page 1093/1485: 25 listings (total: 17100)
+12:21:00 |   Page 1094/1485: 25 listings (total: 17125)
+12:21:02 |   Page 1095/1485: 25 listings (total: 17150)
+12:21:03 |   Page 1096/1485: 25 listings (total: 17175)
+12:21:05 |   Page 1097/1485: 25 listings (total: 17200)
+12:21:06 |   Page 1098/1485: 25 listings (total: 17225)
+12:21:08 |   Page 1099/1485: 25 listings (total: 17250)
+12:21:09 |   Page 1100/1485: 25 listings (total: 17275)
+12:21:10 |   Page 1101/1485: 25 listings (total: 17300)
+12:21:12 |   Page 1102/1485: 25 listings (total: 17325)
+12:21:13 |   Page 1103/1485: 25 listings (total: 17350)
+12:21:14 | Rate limited, waiting 10s...
+12:21:25 |   Page 1104/1485: 25 listings (total: 17375)
+12:21:27 |   Page 1105/1485: 25 listings (total: 17400)
+12:21:28 |   Page 1106/1485: 25 listings (total: 17425)
+12:21:29 |   Page 1107/1485: 25 listings (total: 17450)
+12:21:31 |   Page 1108/1485: 25 listings (total: 17475)
+12:21:32 |   Page 1109/1485: 25 listings (total: 17500)
+12:21:34 |   Page 1110/1485: 25 listings (total: 17525)
+12:21:35 |   Page 1111/1485: 25 listings (total: 17550)
+12:21:36 |   Page 1112/1485: 25 listings (total: 17575)
+12:21:38 |   Page 1113/1485: 25 listings (total: 17600)
+12:21:39 |   Page 1114/1485: 25 listings (total: 17625)
+12:21:41 |   Page 1115/1485: 25 listings (total: 17650)
+12:21:42 | Rate limited, waiting 10s...
+12:21:52 |   Page 1116/1485: 25 listings (total: 17675)
+12:21:54 |   Page 1117/1485: 25 listings (total: 17700)
+12:21:55 |   Page 1118/1485: 25 listings (total: 17725)
+12:21:57 |   Page 1119/1485: 25 listings (total: 17750)
+12:21:58 |   Page 1120/1485: 25 listings (total: 17775)
+12:22:00 |   Page 1121/1485: 25 listings (total: 17800)
+12:22:01 |   Page 1122/1485: 25 listings (total: 17825)
+12:22:03 |   Page 1123/1485: 25 listings (total: 17850)
+12:22:04 |   Page 1124/1485: 25 listings (total: 17875)
+12:22:06 |   Page 1125/1485: 25 listings (total: 17900)
+12:22:07 |   Page 1126/1485: 25 listings (total: 17925)
+12:22:09 |   Page 1127/1485: 25 listings (total: 17950)
+12:22:10 |   Page 1128/1485: 25 listings (total: 17975)
+12:22:11 |   Page 1129/1485: 25 listings (total: 18000)
+12:22:13 | Rate limited, waiting 10s...
+12:22:23 |   Page 1130/1485: 25 listings (total: 18025)
+12:22:25 |   Page 1131/1485: 25 listings (total: 18050)
+12:22:26 |   Page 1132/1485: 25 listings (total: 18075)
+12:22:28 |   Page 1133/1485: 25 listings (total: 18100)
+12:22:29 |   Page 1134/1485: 25 listings (total: 18125)
+12:22:30 |   Page 1135/1485: 25 listings (total: 18150)
+12:22:32 |   Page 1136/1485: 25 listings (total: 18175)
+12:22:33 |   Page 1137/1485: 25 listings (total: 18200)
+12:22:35 |   Page 1138/1485: 25 listings (total: 18225)
+12:22:36 |   Page 1139/1485: 25 listings (total: 18250)
+12:22:38 |   Page 1140/1485: 25 listings (total: 18275)
+12:22:39 |   Page 1141/1485: 25 listings (total: 18300)
+12:22:40 |   Page 1142/1485: 25 listings (total: 18325)
+12:22:41 | Rate limited, waiting 10s...
+12:22:52 |   Page 1143/1485: 25 listings (total: 18350)
+12:22:53 |   Page 1144/1485: 25 listings (total: 18375)
+12:22:55 |   Page 1145/1485: 25 listings (total: 18400)
+12:22:56 |   Page 1146/1485: 25 listings (total: 18425)
+12:22:58 |   Page 1147/1485: 25 listings (total: 18450)
+12:22:59 |   Page 1148/1485: 25 listings (total: 18475)
+12:23:00 |   Page 1149/1485: 25 listings (total: 18500)
+12:23:02 |   Page 1150/1485: 25 listings (total: 18525)
+12:23:03 |   Page 1151/1485: 25 listings (total: 18550)
+12:23:05 |   Page 1152/1485: 25 listings (total: 18575)
+12:23:06 |   Page 1153/1485: 25 listings (total: 18600)
+12:23:08 |   Page 1154/1485: 25 listings (total: 18625)
+12:23:09 |   Page 1155/1485: 25 listings (total: 18650)
+12:23:10 | Rate limited, waiting 10s...
+12:23:21 |   Page 1156/1485: 25 listings (total: 18675)
+12:23:22 |   Page 1157/1485: 25 listings (total: 18700)
+12:23:24 |   Page 1158/1485: 25 listings (total: 18725)
+12:23:25 |   Page 1159/1485: 25 listings (total: 18750)
+12:23:27 |   Page 1160/1485: 25 listings (total: 18775)
+12:23:28 |   Page 1161/1485: 25 listings (total: 18800)
+12:23:29 |   Page 1162/1485: 25 listings (total: 18825)
+12:23:31 |   Page 1163/1485: 25 listings (total: 18850)
+12:23:32 |   Page 1164/1485: 25 listings (total: 18875)
+12:23:34 |   Page 1165/1485: 25 listings (total: 18900)
+12:23:35 |   Page 1166/1485: 25 listings (total: 18925)
+12:23:37 |   Page 1167/1485: 25 listings (total: 18950)
+12:23:38 |   Page 1168/1485: 25 listings (total: 18975)
+12:23:39 |   Page 1169/1485: 25 listings (total: 19000)
+12:23:41 |   Page 1170/1485: 25 listings (total: 19025)
+12:23:42 | Rate limited, waiting 10s...
+12:23:52 |   Page 1171/1485: 25 listings (total: 19050)
+12:23:54 |   Page 1172/1485: 25 listings (total: 19075)
+12:23:55 |   Page 1173/1485: 25 listings (total: 19100)
+12:23:57 |   Page 1174/1485: 25 listings (total: 19125)
+12:23:58 |   Page 1175/1485: 25 listings (total: 19150)
+12:24:00 |   Page 1176/1485: 25 listings (total: 19175)
+12:24:01 |   Page 1177/1485: 25 listings (total: 19200)
+12:24:03 |   Page 1178/1485: 25 listings (total: 19225)
+12:24:04 |   Page 1179/1485: 25 listings (total: 19250)
+12:24:05 |   Page 1180/1485: 25 listings (total: 19275)
+12:24:07 |   Page 1181/1485: 25 listings (total: 19300)
+12:24:08 |   Page 1182/1485: 25 listings (total: 19325)
+12:24:10 |   Page 1183/1485: 25 listings (total: 19350)
+12:24:11 |   Page 1184/1485: 25 listings (total: 19375)
+12:24:13 |   Page 1185/1485: 25 listings (total: 19400)
+12:24:14 | Rate limited, waiting 10s...
+12:24:25 |   Page 1186/1485: 25 listings (total: 19425)
+12:24:26 |   Page 1187/1485: 25 listings (total: 19450)
+12:24:27 |   Page 1188/1485: 25 listings (total: 19475)
+12:24:29 |   Page 1189/1485: 25 listings (total: 19500)
+12:24:30 |   Page 1190/1485: 25 listings (total: 19525)
+12:24:32 |   Page 1191/1485: 25 listings (total: 19550)
+12:24:33 |   Page 1192/1485: 25 listings (total: 19575)
+12:24:35 |   Page 1193/1485: 25 listings (total: 19600)
+12:24:36 |   Page 1194/1485: 25 listings (total: 19625)
+12:24:38 |   Page 1195/1485: 25 listings (total: 19650)
+12:24:39 |   Page 1196/1485: 25 listings (total: 19675)
+12:24:41 |   Page 1197/1485: 25 listings (total: 19700)
+12:24:42 |   Page 1198/1485: 25 listings (total: 19725)
+12:24:43 |   Page 1199/1485: 25 listings (total: 19750)
+12:24:44 | Rate limited, waiting 10s...
+12:24:55 |   Page 1200/1485: 25 listings (total: 19775)
+12:24:57 |   Page 1201/1485: 25 listings (total: 19800)
+12:24:58 |   Page 1202/1485: 25 listings (total: 19825)
+12:24:59 |   Page 1203/1485: 25 listings (total: 19850)
+12:25:01 |   Page 1204/1485: 25 listings (total: 19875)
+12:25:03 |   Page 1205/1485: 25 listings (total: 19900)
+12:25:04 |   Page 1206/1485: 25 listings (total: 19925)
+12:25:06 |   Page 1207/1485: 25 listings (total: 19950)
+12:25:07 |   Page 1208/1485: 25 listings (total: 19975)
+12:25:08 |   Page 1209/1485: 25 listings (total: 20000)
+12:25:10 |   Page 1210/1485: 25 listings (total: 20025)
+12:25:11 |   Page 1211/1485: 25 listings (total: 20050)
+12:25:13 |   Page 1212/1485: 25 listings (total: 20075)
+12:25:14 |   Page 1213/1485: 25 listings (total: 20100)
+12:25:15 |   Page 1214/1485: 25 listings (total: 20125)
+12:25:17 | Rate limited, waiting 10s...
+12:25:27 |   Page 1215/1485: 25 listings (total: 20150)
+12:25:29 |   Page 1216/1485: 25 listings (total: 20175)
+12:25:30 |   Page 1217/1485: 25 listings (total: 20200)
+12:25:32 |   Page 1218/1485: 25 listings (total: 20225)
+12:25:33 |   Page 1219/1485: 25 listings (total: 20250)
+12:25:34 |   Page 1220/1485: 25 listings (total: 20275)
+12:25:36 |   Page 1221/1485: 25 listings (total: 20300)
+12:25:38 |   Page 1222/1485: 25 listings (total: 20325)
+12:25:39 |   Page 1223/1485: 25 listings (total: 20350)
+12:25:41 |   Page 1224/1485: 25 listings (total: 20375)
+12:25:42 |   Page 1225/1485: 25 listings (total: 20400)
+12:25:43 |   Page 1226/1485: 25 listings (total: 20425)
+12:25:45 |   Page 1227/1485: 25 listings (total: 20450)
+12:25:46 | Rate limited, waiting 10s...
+12:25:57 |   Page 1228/1485: 25 listings (total: 20475)
+12:25:58 |   Page 1229/1485: 25 listings (total: 20500)
+12:25:59 |   Page 1230/1485: 25 listings (total: 20525)
+12:26:01 |   Page 1231/1485: 25 listings (total: 20550)
+12:26:02 |   Page 1232/1485: 25 listings (total: 20575)
+12:26:04 |   Page 1233/1485: 25 listings (total: 20600)
+12:26:05 |   Page 1234/1485: 25 listings (total: 20625)
+12:26:07 |   Page 1235/1485: 25 listings (total: 20650)
+12:26:08 |   Page 1236/1485: 25 listings (total: 20675)
+12:26:10 |   Page 1237/1485: 25 listings (total: 20700)
+12:26:11 |   Page 1238/1485: 25 listings (total: 20725)
+12:26:12 |   Page 1239/1485: 25 listings (total: 20750)
+12:26:14 |   Page 1240/1485: 25 listings (total: 20775)
+12:26:15 | Rate limited, waiting 10s...
+12:26:26 |   Page 1241/1485: 25 listings (total: 20800)
+12:26:27 |   Page 1242/1485: 25 listings (total: 20825)
+12:26:28 |   Page 1243/1485: 25 listings (total: 20850)
+12:26:30 |   Page 1244/1485: 25 listings (total: 20875)
+12:26:31 |   Page 1245/1485: 25 listings (total: 20900)
+12:26:33 |   Page 1246/1485: 25 listings (total: 20925)
+12:26:34 |   Page 1247/1485: 25 listings (total: 20950)
+12:26:35 |   Page 1248/1485: 25 listings (total: 20975)
+12:26:37 |   Page 1249/1485: 25 listings (total: 21000)
+12:26:39 |   Page 1250/1485: 25 listings (total: 21025)
+12:26:41 |   Page 1251/1485: 25 listings (total: 21050)
+12:26:42 |   Page 1252/1485: 25 listings (total: 21075)
+12:26:43 |   Page 1253/1485: 25 listings (total: 21100)
+12:26:45 |   Page 1254/1485: 25 listings (total: 21125)
+12:26:46 | Rate limited, waiting 10s...
+12:26:57 |   Page 1255/1485: 25 listings (total: 21150)
+12:26:58 |   Page 1256/1485: 25 listings (total: 21175)
+12:26:59 |   Page 1257/1485: 25 listings (total: 21200)
+12:27:01 |   Page 1258/1485: 25 listings (total: 21225)
+12:27:02 |   Page 1259/1485: 25 listings (total: 21250)
+12:27:04 |   Page 1260/1485: 25 listings (total: 21275)
+12:27:05 |   Page 1261/1485: 25 listings (total: 21300)
+12:27:07 |   Page 1262/1485: 25 listings (total: 21325)
+12:27:08 |   Page 1263/1485: 25 listings (total: 21350)
+12:27:10 |   Page 1264/1485: 25 listings (total: 21375)
+12:27:11 |   Page 1265/1485: 25 listings (total: 21400)
+12:27:12 |   Page 1266/1485: 25 listings (total: 21425)
+12:27:14 |   Page 1267/1485: 25 listings (total: 21450)
+12:27:15 | Rate limited, waiting 10s...
+12:27:25 |   Page 1268/1485: 25 listings (total: 21475)
+12:27:27 |   Page 1269/1485: 25 listings (total: 21500)
+12:27:28 |   Page 1270/1485: 25 listings (total: 21525)
+12:27:30 |   Page 1271/1485: 25 listings (total: 21550)
+12:27:31 |   Page 1272/1485: 25 listings (total: 21575)
+12:27:33 |   Page 1273/1485: 25 listings (total: 21600)
+12:27:34 |   Page 1274/1485: 25 listings (total: 21625)
+12:27:36 |   Page 1275/1485: 25 listings (total: 21650)
+12:27:37 |   Page 1276/1485: 25 listings (total: 21675)
+12:27:39 |   Page 1277/1485: 25 listings (total: 21700)
+12:27:40 |   Page 1278/1485: 25 listings (total: 21725)
+12:27:42 |   Page 1279/1485: 25 listings (total: 21750)
+12:27:43 |   Page 1280/1485: 25 listings (total: 21775)
+12:27:45 |   Page 1281/1485: 25 listings (total: 21800)
+12:27:46 | Rate limited, waiting 10s...
+12:27:56 |   Page 1282/1485: 25 listings (total: 21825)
+12:27:58 |   Page 1283/1485: 25 listings (total: 21850)
+12:27:59 |   Page 1284/1485: 25 listings (total: 21875)
+12:28:01 |   Page 1285/1485: 25 listings (total: 21900)
+12:28:02 |   Page 1286/1485: 25 listings (total: 21925)
+12:28:04 |   Page 1287/1485: 25 listings (total: 21950)
+12:28:05 |   Page 1288/1485: 25 listings (total: 21975)
+12:28:06 |   Page 1289/1485: 25 listings (total: 22000)
+12:28:08 |   Page 1290/1485: 25 listings (total: 22025)
+12:28:09 |   Page 1291/1485: 25 listings (total: 22050)
+12:28:11 |   Page 1292/1485: 25 listings (total: 22075)
+12:28:12 |   Page 1293/1485: 25 listings (total: 22100)
+12:28:14 |   Page 1294/1485: 25 listings (total: 22125)
+12:28:15 | Rate limited, waiting 10s...
+12:28:26 |   Page 1295/1485: 25 listings (total: 22150)
+12:28:27 |   Page 1296/1485: 25 listings (total: 22175)
+12:28:28 |   Page 1297/1485: 25 listings (total: 22200)
+12:28:30 |   Page 1298/1485: 25 listings (total: 22225)
+12:28:31 |   Page 1299/1485: 25 listings (total: 22250)
+12:28:33 |   Page 1300/1485: 25 listings (total: 22275)
+12:28:34 |   Page 1301/1485: 25 listings (total: 22300)
+12:28:36 |   Page 1302/1485: 25 listings (total: 22325)
+12:28:37 |   Page 1303/1485: 25 listings (total: 22350)
+12:28:38 |   Page 1304/1485: 25 listings (total: 22375)
+12:28:40 |   Page 1305/1485: 25 listings (total: 22400)
+12:28:41 |   Page 1306/1485: 25 listings (total: 22425)
+12:28:43 |   Page 1307/1485: 25 listings (total: 22450)
+12:28:44 | Rate limited, waiting 10s...
+12:28:54 |   Page 1308/1485: 25 listings (total: 22475)
+12:28:56 |   Page 1309/1485: 25 listings (total: 22500)
+12:28:57 |   Page 1310/1485: 25 listings (total: 22525)
+12:28:59 |   Page 1311/1485: 25 listings (total: 22550)
+12:29:00 |   Page 1312/1485: 25 listings (total: 22575)
+12:29:02 |   Page 1313/1485: 25 listings (total: 22600)
+12:29:03 |   Page 1314/1485: 25 listings (total: 22625)
+12:29:05 |   Page 1315/1485: 25 listings (total: 22650)
+12:29:06 |   Page 1316/1485: 25 listings (total: 22675)
+12:29:08 |   Page 1317/1485: 25 listings (total: 22700)
+12:29:09 |   Page 1318/1485: 25 listings (total: 22725)
+12:29:11 |   Page 1319/1485: 25 listings (total: 22750)
+12:29:12 |   Page 1320/1485: 25 listings (total: 22775)
+12:29:13 |   Page 1321/1485: 25 listings (total: 22800)
+12:29:15 | Rate limited, waiting 10s...
+12:29:25 |   Page 1322/1485: 25 listings (total: 22825)
+12:29:27 |   Page 1323/1485: 25 listings (total: 22850)
+12:29:28 |   Page 1324/1485: 25 listings (total: 22875)
+12:29:29 |   Page 1325/1485: 25 listings (total: 22900)
+12:29:31 |   Page 1326/1485: 25 listings (total: 22925)
+12:29:32 |   Page 1327/1485: 25 listings (total: 22950)
+12:29:34 |   Page 1328/1485: 25 listings (total: 22975)
+12:29:35 |   Page 1329/1485: 25 listings (total: 23000)
+12:29:37 |   Page 1330/1485: 25 listings (total: 23025)
+12:29:38 |   Page 1331/1485: 25 listings (total: 23050)
+12:29:39 |   Page 1332/1485: 25 listings (total: 23075)
+12:29:41 |   Page 1333/1485: 25 listings (total: 23100)
+12:29:42 |   Page 1334/1485: 25 listings (total: 23125)
+12:29:43 | Rate limited, waiting 10s...
+12:29:54 |   Page 1335/1485: 25 listings (total: 23150)
+12:29:55 |   Page 1336/1485: 25 listings (total: 23175)
+12:29:57 |   Page 1337/1485: 25 listings (total: 23200)
+12:29:58 |   Page 1338/1485: 25 listings (total: 23225)
+12:30:00 |   Page 1339/1485: 25 listings (total: 23250)
+12:30:01 |   Page 1340/1485: 25 listings (total: 23275)
+12:30:03 |   Page 1341/1485: 25 listings (total: 23300)
+12:30:04 |   Page 1342/1485: 25 listings (total: 23325)
+12:30:06 |   Page 1343/1485: 25 listings (total: 23350)
+12:30:07 |   Page 1344/1485: 25 listings (total: 23375)
+12:30:09 |   Page 1345/1485: 25 listings (total: 23400)
+12:30:10 |   Page 1346/1485: 25 listings (total: 23425)
+12:30:12 |   Page 1347/1485: 25 listings (total: 23450)
+12:30:13 | Rate limited, waiting 10s...
+12:30:23 |   Page 1348/1485: 25 listings (total: 23475)
+12:30:25 |   Page 1349/1485: 25 listings (total: 23500)
+12:30:26 |   Page 1350/1485: 25 listings (total: 23525)
+12:30:28 |   Page 1351/1485: 25 listings (total: 23550)
+12:30:29 |   Page 1352/1485: 25 listings (total: 23575)
+12:30:31 |   Page 1353/1485: 25 listings (total: 23600)
+12:30:32 |   Page 1354/1485: 25 listings (total: 23625)
+12:30:34 |   Page 1355/1485: 25 listings (total: 23650)
+12:30:35 |   Page 1356/1485: 25 listings (total: 23675)
+12:30:37 |   Page 1357/1485: 25 listings (total: 23700)
+12:30:38 |   Page 1358/1485: 25 listings (total: 23725)
+12:30:40 |   Page 1359/1485: 25 listings (total: 23750)
+12:30:41 |   Page 1360/1485: 25 listings (total: 23775)
+12:30:42 |   Page 1361/1485: 25 listings (total: 23800)
+12:30:44 | Rate limited, waiting 10s...
+12:30:54 |   Page 1362/1485: 25 listings (total: 23825)
+12:30:56 |   Page 1363/1485: 25 listings (total: 23850)
+12:30:57 |   Page 1364/1485: 25 listings (total: 23875)
+12:30:59 |   Page 1365/1485: 25 listings (total: 23900)
+12:31:00 |   Page 1366/1485: 25 listings (total: 23925)
+12:31:02 |   Page 1367/1485: 25 listings (total: 23950)
+12:31:03 |   Page 1368/1485: 25 listings (total: 23975)
+12:31:04 |   Page 1369/1485: 25 listings (total: 24000)
+12:31:06 |   Page 1370/1485: 25 listings (total: 24025)
+12:31:07 |   Page 1371/1485: 25 listings (total: 24050)
+12:31:09 |   Page 1372/1485: 25 listings (total: 24075)
+12:31:10 |   Page 1373/1485: 25 listings (total: 24100)
+12:31:12 |   Page 1374/1485: 25 listings (total: 24125)
+12:31:13 | Rate limited, waiting 10s...
+12:31:23 |   Page 1375/1485: 25 listings (total: 24150)
+12:31:25 |   Page 1376/1485: 25 listings (total: 24175)
+12:31:26 |   Page 1377/1485: 25 listings (total: 24200)
+12:31:28 |   Page 1378/1485: 25 listings (total: 24225)
+12:31:29 |   Page 1379/1485: 25 listings (total: 24250)
+12:31:31 |   Page 1380/1485: 25 listings (total: 24275)
+12:31:32 |   Page 1381/1485: 25 listings (total: 24300)
+12:31:34 |   Page 1382/1485: 25 listings (total: 24325)
+12:31:35 |   Page 1383/1485: 25 listings (total: 24350)
+12:31:36 |   Page 1384/1485: 25 listings (total: 24375)
+12:31:38 |   Page 1385/1485: 25 listings (total: 24400)
+12:31:39 |   Page 1386/1485: 25 listings (total: 24425)
+12:31:41 |   Page 1387/1485: 25 listings (total: 24450)
+12:31:42 |   Page 1388/1485: 25 listings (total: 24475)
+12:31:43 | Rate limited, waiting 10s...
+12:31:54 |   Page 1389/1485: 25 listings (total: 24500)
+12:31:56 |   Page 1390/1485: 25 listings (total: 24525)
+12:31:57 |   Page 1391/1485: 25 listings (total: 24550)
+12:31:58 |   Page 1392/1485: 25 listings (total: 24575)
+12:32:00 |   Page 1393/1485: 25 listings (total: 24600)
+12:32:01 |   Page 1394/1485: 25 listings (total: 24625)
+12:32:03 |   Page 1395/1485: 25 listings (total: 24650)
+12:32:04 |   Page 1396/1485: 25 listings (total: 24675)
+12:32:06 |   Page 1397/1485: 25 listings (total: 24700)
+12:32:07 |   Page 1398/1485: 25 listings (total: 24725)
+12:32:09 |   Page 1399/1485: 25 listings (total: 24750)
+12:32:10 |   Page 1400/1485: 25 listings (total: 24775)
+12:32:11 |   Page 1401/1485: 25 listings (total: 24800)
+12:32:13 | Rate limited, waiting 10s...
+12:32:23 |   Page 1402/1485: 25 listings (total: 24825)
+12:32:25 |   Page 1403/1485: 25 listings (total: 24850)
+12:32:26 |   Page 1404/1485: 25 listings (total: 24875)
+12:32:28 |   Page 1405/1485: 25 listings (total: 24900)
+12:32:29 |   Page 1406/1485: 25 listings (total: 24925)
+12:32:31 |   Page 1407/1485: 25 listings (total: 24950)
+12:32:32 |   Page 1408/1485: 25 listings (total: 24975)
+12:32:34 |   Page 1409/1485: 25 listings (total: 25000)
+12:32:35 |   Page 1410/1485: 25 listings (total: 25025)
+12:32:37 |   Page 1411/1485: 25 listings (total: 25050)
+12:32:38 |   Page 1412/1485: 25 listings (total: 25075)
+12:32:40 |   Page 1413/1485: 25 listings (total: 25100)
+12:32:41 |   Page 1414/1485: 25 listings (total: 25125)
+12:32:43 |   Page 1415/1485: 25 listings (total: 25150)
+12:32:44 | Rate limited, waiting 10s...
+12:32:54 |   Page 1416/1485: 25 listings (total: 25175)
+12:32:56 |   Page 1417/1485: 25 listings (total: 25200)
+12:32:57 |   Page 1418/1485: 25 listings (total: 25225)
+12:32:59 |   Page 1419/1485: 25 listings (total: 25250)
+12:33:00 |   Page 1420/1485: 25 listings (total: 25275)
+12:33:01 |   Page 1421/1485: 25 listings (total: 25300)
+12:33:03 |   Page 1422/1485: 25 listings (total: 25325)
+12:33:04 |   Page 1423/1485: 25 listings (total: 25350)
+12:33:06 |   Page 1424/1485: 25 listings (total: 25375)
+12:33:07 |   Page 1425/1485: 25 listings (total: 25400)
+12:33:09 |   Page 1426/1485: 25 listings (total: 25425)
+12:33:10 |   Page 1427/1485: 25 listings (total: 25450)
+12:33:12 |   Page 1428/1485: 25 listings (total: 25475)
+12:33:13 | Rate limited, waiting 10s...
+12:33:23 |   Page 1429/1485: 25 listings (total: 25500)
+12:33:25 |   Page 1430/1485: 25 listings (total: 25525)
+12:33:26 |   Page 1431/1485: 25 listings (total: 25550)
+12:33:28 |   Page 1432/1485: 25 listings (total: 25575)
+12:33:29 |   Page 1433/1485: 25 listings (total: 25600)
+12:33:31 |   Page 1434/1485: 25 listings (total: 25625)
+12:33:32 |   Page 1435/1485: 25 listings (total: 25650)
+12:33:34 |   Page 1436/1485: 25 listings (total: 25675)
+12:33:35 |   Page 1437/1485: 25 listings (total: 25700)
+12:33:37 |   Page 1438/1485: 25 listings (total: 25725)
+12:33:38 |   Page 1439/1485: 25 listings (total: 25750)
+12:33:40 |   Page 1440/1485: 25 listings (total: 25775)
+12:33:41 |   Page 1441/1485: 25 listings (total: 25800)
+12:33:42 |   Page 1442/1485: 25 listings (total: 25825)
+12:33:44 | Rate limited, waiting 10s...
+12:33:54 |   Page 1443/1485: 25 listings (total: 25850)
+12:33:56 |   Page 1444/1485: 25 listings (total: 25875)
+12:33:57 |   Page 1445/1485: 25 listings (total: 25900)
+12:33:59 |   Page 1446/1485: 25 listings (total: 25925)
+12:34:00 |   Page 1447/1485: 25 listings (total: 25950)
+12:34:02 |   Page 1448/1485: 25 listings (total: 25975)
+12:34:03 |   Page 1449/1485: 25 listings (total: 26000)
+12:34:05 |   Page 1450/1485: 25 listings (total: 26025)
+12:34:06 |   Page 1451/1485: 25 listings (total: 26050)
+12:34:07 |   Page 1452/1485: 25 listings (total: 26075)
+12:34:09 |   Page 1453/1485: 25 listings (total: 26100)
+12:34:10 |   Page 1454/1485: 25 listings (total: 26125)
+12:34:12 |   Page 1455/1485: 25 listings (total: 26150)
+12:34:13 | Rate limited, waiting 10s...
+12:34:24 |   Page 1456/1485: 25 listings (total: 26175)
+12:34:25 |   Page 1457/1485: 25 listings (total: 26200)
+12:34:27 |   Page 1458/1485: 25 listings (total: 26225)
+12:34:28 |   Page 1459/1485: 25 listings (total: 26250)
+12:34:29 |   Page 1460/1485: 25 listings (total: 26275)
+12:34:31 |   Page 1461/1485: 25 listings (total: 26300)
+12:34:33 |   Page 1462/1485: 25 listings (total: 26325)
+12:34:34 |   Page 1463/1485: 25 listings (total: 26350)
+12:34:35 |   Page 1464/1485: 20 listings (total: 26370)
+12:34:37 |   Page 1465/1485: 9 listings (total: 26379)
+12:34:38 |   Page 1466/1485: 9 listings (total: 26388)
+12:34:40 |   Page 1467/1485: 9 listings (total: 26397)
+12:34:41 |   Page 1468/1485: 9 listings (total: 26406)
+12:34:42 |   Page 1469/1485: 9 listings (total: 26415)
+12:34:43 | Rate limited, waiting 10s...
+12:34:54 |   Page 1470/1485: 21 listings (total: 26436)
+12:34:55 |   Page 1471/1485: 21 listings (total: 26457)
+12:34:56 |   Page 1472/1485: 21 listings (total: 26478)
+12:34:58 |   Page 1473/1485: 21 listings (total: 26499)
+12:34:59 |   Page 1474/1485: 21 listings (total: 26520)
+12:35:00 |   Page 1475/1485: 21 listings (total: 26541)
+12:35:01 |   Page 1476/1485: 21 listings (total: 26562)
+12:35:03 |   Page 1477/1485: 21 listings (total: 26583)
+12:35:05 |   Page 1478/1485: 21 listings (total: 26604)
+12:35:06 |   Page 1479/1485: 21 listings (total: 26625)
+12:35:07 |   Page 1480/1485: 21 listings (total: 26646)
+12:35:09 |   Page 1481/1485: 21 listings (total: 26667)
+12:35:10 | Rate limited, waiting 10s...
+12:35:20 |   Page 1482/1485: 21 listings (total: 26688)
+12:35:22 |   Page 1483/1485: 21 listings (total: 26709)
+12:35:23 |   Page 1484/1485: 21 listings (total: 26730)
+12:35:25 |   Page 1485/1485: 21 listings (total: 26751)
+12:35:25 | 
+Total unique listings to scrape: 26356
+12:35:25 | 
+==================================================
+12:35:25 | PHASE 2: Scraping listing details
+12:35:25 | ==================================================
+12:35:36 | Rate limited, waiting 10s...
+12:35:47 |   Progress: 10/26356 (10 successful, 0 failed)
+12:35:59 | Rate limited, waiting 10s...
+12:36:09 |   Progress: 20/26356 (20 successful, 0 failed)
+12:36:15 |     [Checkpoint saved: 25 listings]
+12:36:21 |   Progress: 30/26356 (30 successful, 0 failed)
+12:36:23 | Rate limited, waiting 10s...
+12:36:43 |   Progress: 40/26356 (40 successful, 0 failed)
+12:36:49 | Rate limited, waiting 10s...
+12:37:05 |   Progress: 50/26356 (50 successful, 0 failed)
+12:37:05 |     [Checkpoint saved: 50 listings]
+12:37:11 | Rate limited, waiting 10s...
+12:37:27 |   Progress: 60/26356 (60 successful, 0 failed)
+12:37:32 | Rate limited, waiting 10s...
+12:37:49 |   Progress: 70/26356 (70 successful, 0 failed)
+12:37:54 | Rate limited, waiting 10s...
+12:38:06 |     [Checkpoint saved: 75 listings]
+12:38:12 |   Progress: 80/26356 (80 successful, 0 failed)
+12:38:16 | Rate limited, waiting 10s...
+12:38:34 |   Progress: 90/26356 (90 successful, 0 failed)
+12:38:40 | Rate limited, waiting 10s...
+12:38:56 |   Progress: 100/26356 (100 successful, 0 failed)
+12:38:56 |     [Checkpoint saved: 100 listings]
+12:39:03 | Rate limited, waiting 10s...
+12:39:19 |   Progress: 110/26356 (110 successful, 0 failed)
+12:39:29 | Rate limited, waiting 10s...
+12:39:41 |   Progress: 120/26356 (120 successful, 0 failed)
+12:39:47 |     [Checkpoint saved: 125 listings]
+12:39:53 |   Progress: 130/26356 (130 successful, 0 failed)
+12:39:55 | Rate limited, waiting 10s...
+12:40:15 |   Progress: 140/26356 (140 successful, 0 failed)
+12:40:19 | Rate limited, waiting 10s...
+12:40:38 |   Progress: 150/26356 (150 successful, 0 failed)
+12:40:38 |     [Checkpoint saved: 150 listings]
+12:40:44 | Rate limited, waiting 10s...
+12:41:00 |   Progress: 160/26356 (160 successful, 0 failed)
+12:41:07 | Rate limited, waiting 10s...
+12:41:22 |   Progress: 170/26356 (170 successful, 0 failed)
+12:41:28 |     [Checkpoint saved: 175 listings]
+12:41:29 | Rate limited, waiting 10s...
+12:41:45 |   Progress: 180/26356 (180 successful, 0 failed)
+12:41:54 | Rate limited, waiting 10s...
+12:42:07 |   Progress: 190/26356 (190 successful, 0 failed)
+12:42:18 | Rate limited, waiting 10s...
+12:42:30 |   Progress: 200/26356 (200 successful, 0 failed)
+12:42:30 |     [Checkpoint saved: 200 listings]
+12:42:42 | Rate limited, waiting 10s...
+12:42:52 |   Progress: 210/26356 (210 successful, 0 failed)
+12:43:04 |   Progress: 220/26356 (220 successful, 0 failed)
+12:43:05 | Rate limited, waiting 10s...
+12:43:21 |     [Checkpoint saved: 225 listings]
+12:43:27 |   Progress: 230/26356 (230 successful, 0 failed)
+12:43:30 | Rate limited, waiting 10s...
+12:43:49 |   Progress: 240/26356 (240 successful, 0 failed)
+12:43:55 | Rate limited, waiting 10s...
+12:44:11 |   Progress: 250/26356 (250 successful, 0 failed)
+12:44:11 |     [Checkpoint saved: 250 listings]
+12:44:18 | Rate limited, waiting 10s...
+12:44:34 |   Progress: 260/26356 (260 successful, 0 failed)
+12:44:42 | Rate limited, waiting 10s...
+12:44:56 |   Progress: 270/26356 (270 successful, 0 failed)
+12:45:02 |     [Checkpoint saved: 275 listings]
+12:45:05 | Rate limited, waiting 10s...
+12:45:18 |   Progress: 280/26356 (280 successful, 0 failed)
+12:45:29 | Rate limited, waiting 10s...
+12:45:40 |   Progress: 290/26356 (290 successful, 0 failed)
+12:45:52 | Rate limited, waiting 10s...
+12:46:03 |   Progress: 300/26356 (300 successful, 0 failed)
+12:46:03 |     [Checkpoint saved: 300 listings]
+12:46:15 | Rate limited, waiting 10s...
+12:46:25 |   Progress: 310/26356 (310 successful, 0 failed)
+12:46:37 | Rate limited, waiting 10s...
+12:46:48 |   Progress: 320/26356 (320 successful, 0 failed)
+12:46:54 |     [Checkpoint saved: 325 listings]
+12:47:00 |   Progress: 330/26356 (330 successful, 0 failed)
+12:47:01 | Rate limited, waiting 10s...
+12:47:22 |   Progress: 340/26356 (340 successful, 0 failed)
+12:47:25 | Rate limited, waiting 10s...
+12:47:44 |   Progress: 350/26356 (350 successful, 0 failed)
+12:47:44 |     [Checkpoint saved: 350 listings]
+12:47:51 | Rate limited, waiting 10s...
+12:48:07 |   Progress: 360/26356 (360 successful, 0 failed)
+12:48:15 | Rate limited, waiting 10s...
+12:48:29 |   Progress: 370/26356 (370 successful, 0 failed)
+12:48:35 |     [Checkpoint saved: 375 listings]
+12:48:36 | Rate limited, waiting 10s...
+12:48:51 |   Progress: 380/26356 (380 successful, 0 failed)
+12:48:59 | Rate limited, waiting 10s...
+12:49:14 |   Progress: 390/26356 (390 successful, 0 failed)
+12:49:25 | Rate limited, waiting 10s...
+12:49:36 |   Progress: 400/26356 (400 successful, 0 failed)
+12:49:36 |     [Checkpoint saved: 400 listings]
+12:49:49 |   Progress: 410/26356 (410 successful, 0 failed)
+12:49:51 | Rate limited, waiting 10s...
+12:50:12 |   Progress: 420/26356 (420 successful, 0 failed)
+12:50:15 | Rate limited, waiting 10s...
+12:50:28 |     [Checkpoint saved: 425 listings]
+12:50:35 |   Progress: 430/26356 (430 successful, 0 failed)
+12:50:38 | Rate limited, waiting 10s...
+12:50:57 |   Progress: 440/26356 (440 successful, 0 failed)
+12:50:59 | Rate limited, waiting 10s...
+12:51:19 |   Progress: 450/26356 (450 successful, 0 failed)
+12:51:20 |     [Checkpoint saved: 450 listings]
+12:51:27 | Rate limited, waiting 10s...
+12:51:42 |   Progress: 460/26356 (460 successful, 0 failed)
+12:51:52 | Rate limited, waiting 10s...
+12:52:04 |   Progress: 470/26356 (470 successful, 0 failed)
+12:52:10 |     [Checkpoint saved: 475 listings]
+12:52:15 | Rate limited, waiting 10s...
+12:52:26 |   Progress: 480/26356 (480 successful, 0 failed)
+12:52:36 | Rate limited, waiting 10s...
+12:52:49 |   Progress: 490/26356 (490 successful, 0 failed)
+12:52:57 | Rate limited, waiting 10s...
+12:53:11 |   Progress: 500/26356 (500 successful, 0 failed)
+12:53:11 |     [Checkpoint saved: 500 listings]
+12:53:23 | Rate limited, waiting 10s...
+12:53:34 |   Progress: 510/26356 (510 successful, 0 failed)
+12:53:46 |   Progress: 520/26356 (520 successful, 0 failed)
+12:53:47 | Rate limited, waiting 10s...
+12:54:02 |     [Checkpoint saved: 525 listings]
+12:54:08 |   Progress: 530/26356 (530 successful, 0 failed)
+12:54:10 | Rate limited, waiting 10s...
+12:54:30 |   Progress: 540/26356 (540 successful, 0 failed)
+12:54:33 | Rate limited, waiting 10s...
+12:54:53 |   Progress: 550/26356 (550 successful, 0 failed)
+12:54:53 |     [Checkpoint saved: 550 listings]
+12:54:55 | Rate limited, waiting 10s...
+12:55:15 |   Progress: 560/26356 (560 successful, 0 failed)
+12:55:18 | Rate limited, waiting 10s...
+12:55:37 |   Progress: 570/26356 (570 successful, 0 failed)
+12:55:42 | Rate limited, waiting 10s...
+12:55:53 |     [Checkpoint saved: 575 listings]
+12:55:59 |   Progress: 580/26356 (580 successful, 0 failed)
+12:56:04 | Rate limited, waiting 10s...
+12:56:21 |   Progress: 590/26356 (590 successful, 0 failed)
+12:56:28 | Rate limited, waiting 10s...
+12:56:43 |   Progress: 600/26356 (600 successful, 0 failed)
+12:56:44 |     [Checkpoint saved: 600 listings]
+12:56:53 | Rate limited, waiting 10s...
+12:57:06 |   Progress: 610/26356 (610 successful, 0 failed)
+12:57:17 | Rate limited, waiting 10s...
+12:57:28 |   Progress: 620/26356 (620 successful, 0 failed)
+12:57:34 |     [Checkpoint saved: 625 listings]
+12:57:39 | Rate limited, waiting 10s...
+12:57:51 |   Progress: 630/26356 (630 successful, 0 failed)
+12:58:01 | Rate limited, waiting 10s...
+12:58:12 |   Progress: 640/26356 (640 successful, 0 failed)
+12:58:24 |   Progress: 650/26356 (650 successful, 0 failed)
+12:58:24 |     [Checkpoint saved: 650 listings]
+12:58:25 | Rate limited, waiting 10s...
+12:58:46 |   Progress: 660/26356 (660 successful, 0 failed)
+12:58:51 | Rate limited, waiting 10s...
+12:59:09 |   Progress: 670/26356 (670 successful, 0 failed)
+12:59:13 | Rate limited, waiting 10s...
+12:59:25 |     [Checkpoint saved: 675 listings]
+12:59:31 |   Progress: 680/26356 (680 successful, 0 failed)
+12:59:34 | Rate limited, waiting 10s...
+12:59:53 |   Progress: 690/26356 (690 successful, 0 failed)
+12:59:56 | Rate limited, waiting 10s...
+13:00:15 |   Progress: 700/26356 (700 successful, 0 failed)
+13:00:15 |     [Checkpoint saved: 700 listings]
+13:00:20 | Rate limited, waiting 10s...
+13:00:37 |   Progress: 710/26356 (710 successful, 0 failed)
+13:00:44 | Rate limited, waiting 10s...
+13:01:00 |   Progress: 720/26356 (720 successful, 0 failed)
+13:01:05 |     [Checkpoint saved: 725 listings]
+13:01:08 | Rate limited, waiting 10s...
+13:01:22 |   Progress: 730/26356 (730 successful, 0 failed)
+13:01:31 | Rate limited, waiting 10s...
+13:01:44 |   Progress: 740/26356 (740 successful, 0 failed)
+13:01:54 | Rate limited, waiting 10s...
+13:02:06 |   Progress: 750/26356 (750 successful, 0 failed)
+13:02:06 |     [Checkpoint saved: 750 listings]
+13:02:18 | Rate limited, waiting 10s...
+13:02:28 |   Progress: 760/26356 (760 successful, 0 failed)
+13:02:40 | Rate limited, waiting 10s...
+13:02:50 |   Progress: 770/26356 (770 successful, 0 failed)
+13:02:56 |     [Checkpoint saved: 775 listings]
+13:03:02 |   Progress: 780/26356 (780 successful, 0 failed)
+13:03:03 | Rate limited, waiting 10s...
+13:03:25 |   Progress: 790/26356 (790 successful, 0 failed)
+13:03:28 | Rate limited, waiting 10s...
+13:03:47 |   Progress: 800/26356 (800 successful, 0 failed)
+13:03:47 |     [Checkpoint saved: 800 listings]
+13:03:53 | Rate limited, waiting 10s...
+13:04:09 |   Progress: 810/26356 (810 successful, 0 failed)
+13:04:15 | Rate limited, waiting 10s...
+13:04:31 |   Progress: 820/26356 (820 successful, 0 failed)
+13:04:37 | Rate limited, waiting 10s...
+13:04:48 |     [Checkpoint saved: 825 listings]
+13:04:53 |   Progress: 830/26356 (830 successful, 0 failed)
+13:04:59 | Rate limited, waiting 10s...
+13:05:15 |   Progress: 840/26356 (840 successful, 0 failed)
+13:05:25 | Rate limited, waiting 10s...
+13:05:38 |   Progress: 850/26356 (850 successful, 0 failed)
+13:05:38 |     [Checkpoint saved: 850 listings]
+13:05:49 | Rate limited, waiting 10s...
+13:06:00 |   Progress: 860/26356 (860 successful, 0 failed)
+13:06:11 | Rate limited, waiting 10s...
+13:06:22 |   Progress: 870/26356 (870 successful, 0 failed)
+13:06:28 |     [Checkpoint saved: 875 listings]
+13:06:33 | Rate limited, waiting 10s...
+13:06:44 |   Progress: 880/26356 (880 successful, 0 failed)
+13:06:54 | Rate limited, waiting 10s...
+13:07:06 |   Progress: 890/26356 (890 successful, 0 failed)
+13:07:14 | Rate limited, waiting 10s...
+13:07:28 |   Progress: 900/26356 (900 successful, 0 failed)
+13:07:28 |     [Checkpoint saved: 900 listings]
+13:07:38 | Rate limited, waiting 10s...
+13:07:50 |   Progress: 910/26356 (910 successful, 0 failed)
+13:08:01 | Rate limited, waiting 10s...
+13:08:13 |   Progress: 920/26356 (920 successful, 0 failed)
+13:08:19 |     [Checkpoint saved: 925 listings]
+13:08:25 |   Progress: 930/26356 (930 successful, 0 failed)
+13:08:27 | Rate limited, waiting 10s...
+13:08:47 |   Progress: 940/26356 (940 successful, 0 failed)
+13:08:51 | Rate limited, waiting 10s...
+13:09:09 |   Progress: 950/26356 (950 successful, 0 failed)
+13:09:09 |     [Checkpoint saved: 950 listings]
+13:09:15 | Rate limited, waiting 10s...
+13:09:31 |   Progress: 960/26356 (960 successful, 0 failed)
+13:09:36 | Rate limited, waiting 10s...
+13:09:54 |   Progress: 970/26356 (970 successful, 0 failed)
+13:09:57 | Rate limited, waiting 10s...
+13:10:10 |     [Checkpoint saved: 975 listings]
+13:10:16 |   Progress: 980/26356 (980 successful, 0 failed)
+13:10:22 | Rate limited, waiting 10s...
+13:10:38 |   Progress: 990/26356 (990 successful, 0 failed)
+13:10:45 | Rate limited, waiting 10s...
+13:11:00 |   Progress: 1000/26356 (1000 successful, 0 failed)
+13:11:00 |     [Checkpoint saved: 1000 listings]
+13:11:08 | Rate limited, waiting 10s...
+13:11:22 |   Progress: 1010/26356 (1010 successful, 0 failed)
+13:11:30 | Rate limited, waiting 10s...
+13:11:44 |   Progress: 1020/26356 (1020 successful, 0 failed)
+13:11:50 |     [Checkpoint saved: 1025 listings]
+13:11:52 | Rate limited, waiting 10s...
+13:12:06 |   Progress: 1030/26356 (1030 successful, 0 failed)
+13:12:15 | Rate limited, waiting 10s...
+13:12:29 |   Progress: 1040/26356 (1040 successful, 0 failed)
+13:12:37 | Rate limited, waiting 10s...
+13:12:51 |   Progress: 1050/26356 (1050 successful, 0 failed)
+13:12:51 |     [Checkpoint saved: 1050 listings]
+13:12:59 | Rate limited, waiting 10s...
+13:13:13 |   Progress: 1060/26356 (1060 successful, 0 failed)
+13:13:25 | Rate limited, waiting 10s...
+13:13:35 |   Progress: 1070/26356 (1070 successful, 0 failed)
+13:13:41 |     [Checkpoint saved: 1075 listings]
+13:13:47 |   Progress: 1080/26356 (1080 successful, 0 failed)
+13:13:49 | Rate limited, waiting 10s...
+13:14:09 |   Progress: 1090/26356 (1090 successful, 0 failed)
+13:14:12 | Rate limited, waiting 10s...
+13:14:31 |   Progress: 1100/26356 (1100 successful, 0 failed)
+13:14:31 |     [Checkpoint saved: 1100 listings]
+13:14:32 | Rate limited, waiting 10s...
+13:14:53 | Rate limited, waiting 10s...
+13:15:04 |   Progress: 1110/26356 (1110 successful, 0 failed)
+13:15:16 | Rate limited, waiting 10s...
+13:15:26 |   Progress: 1120/26356 (1120 successful, 0 failed)
+13:15:32 |     [Checkpoint saved: 1125 listings]
+13:15:38 | Rate limited, waiting 10s...
+13:15:48 |   Progress: 1130/26356 (1130 successful, 0 failed)
+13:16:00 |   Progress: 1140/26356 (1140 successful, 0 failed)
+13:16:01 | Rate limited, waiting 10s...
+13:16:23 |   Progress: 1150/26356 (1150 successful, 0 failed)
+13:16:23 |     [Checkpoint saved: 1150 listings]
+13:16:27 | Rate limited, waiting 10s...
+13:16:45 |   Progress: 1160/26356 (1160 successful, 0 failed)
+13:16:53 | Rate limited, waiting 10s...
+13:17:07 |   Progress: 1170/26356 (1170 successful, 0 failed)
+13:17:13 |     [Checkpoint saved: 1175 listings]
+13:17:16 | Rate limited, waiting 10s...
+13:17:29 |   Progress: 1180/26356 (1180 successful, 0 failed)
+13:17:39 | Rate limited, waiting 10s...
+13:17:51 |   Progress: 1190/26356 (1190 successful, 0 failed)
+13:18:01 | Rate limited, waiting 10s...
+13:18:14 |   Progress: 1200/26356 (1200 successful, 0 failed)
+13:18:14 |     [Checkpoint saved: 1200 listings]
+13:18:26 |   Progress: 1210/26356 (1210 successful, 0 failed)
+13:18:27 | Rate limited, waiting 10s...
+13:18:48 |   Progress: 1220/26356 (1220 successful, 0 failed)
+13:18:51 | Rate limited, waiting 10s...
+13:19:04 |     [Checkpoint saved: 1225 listings]
+13:19:10 |   Progress: 1230/26356 (1230 successful, 0 failed)
+13:19:13 | Rate limited, waiting 10s...
+13:19:32 |   Progress: 1240/26356 (1240 successful, 0 failed)
+13:19:36 | Rate limited, waiting 10s...
+13:19:54 |   Progress: 1250/26356 (1250 successful, 0 failed)
+13:19:54 |     [Checkpoint saved: 1250 listings]
+13:19:57 | Rate limited, waiting 10s...
+13:20:16 |   Progress: 1260/26356 (1260 successful, 0 failed)
+13:20:20 | Rate limited, waiting 10s...
+13:20:39 |   Progress: 1270/26356 (1270 successful, 0 failed)
+13:20:44 | Rate limited, waiting 10s...
+13:20:55 |     [Checkpoint saved: 1275 listings]
+13:21:01 |   Progress: 1280/26356 (1280 successful, 0 failed)
+13:21:08 | Rate limited, waiting 10s...
+13:21:23 |   Progress: 1290/26356 (1290 successful, 0 failed)
+13:21:30 | Rate limited, waiting 10s...
+13:21:45 |   Progress: 1300/26356 (1300 successful, 0 failed)
+13:21:45 |     [Checkpoint saved: 1300 listings]
+13:21:52 | Rate limited, waiting 10s...
+13:22:07 |   Progress: 1310/26356 (1310 successful, 0 failed)
+13:22:14 | Rate limited, waiting 10s...
+13:22:30 |   Progress: 1320/26356 (1320 successful, 0 failed)
+13:22:36 |     [Checkpoint saved: 1325 listings]
+13:22:37 | Rate limited, waiting 10s...
+13:22:52 |   Progress: 1330/26356 (1330 successful, 0 failed)
+13:22:59 | Rate limited, waiting 10s...
+13:23:14 |   Progress: 1340/26356 (1340 successful, 0 failed)
+13:23:23 | Rate limited, waiting 10s...
+13:23:36 |   Progress: 1350/26356 (1350 successful, 0 failed)
+13:23:36 |     [Checkpoint saved: 1350 listings]
+13:23:48 |   Progress: 1360/26356 (1360 successful, 0 failed)
+13:23:49 | Rate limited, waiting 10s...
+13:24:10 |   Progress: 1370/26356 (1370 successful, 0 failed)
+13:24:12 | Rate limited, waiting 10s...
+13:24:27 |     [Checkpoint saved: 1375 listings]
+13:24:33 |   Progress: 1380/26356 (1380 successful, 0 failed)
+13:24:34 | Rate limited, waiting 10s...
+13:24:55 | Rate limited, waiting 10s...
+13:25:05 |   Progress: 1390/26356 (1390 successful, 0 failed)
+13:25:17 |   Progress: 1400/26356 (1400 successful, 0 failed)
+13:25:17 |     [Checkpoint saved: 1400 listings]
+13:25:19 | Rate limited, waiting 10s...
+13:25:40 |   Progress: 1410/26356 (1410 successful, 0 failed)
+13:25:42 | Rate limited, waiting 10s...
+13:26:02 |   Progress: 1420/26356 (1420 successful, 0 failed)
+13:26:05 | Rate limited, waiting 10s...
+13:26:18 |     [Checkpoint saved: 1425 listings]
+13:26:24 |   Progress: 1430/26356 (1430 successful, 0 failed)
+13:26:30 | Rate limited, waiting 10s...
+13:26:46 |   Progress: 1440/26356 (1440 successful, 0 failed)
+13:26:53 | Rate limited, waiting 10s...
+13:27:08 |   Progress: 1450/26356 (1450 successful, 0 failed)
+13:27:08 |     [Checkpoint saved: 1450 listings]
+13:27:15 | Rate limited, waiting 10s...
+13:27:30 |   Progress: 1460/26356 (1460 successful, 0 failed)
+13:27:39 | Rate limited, waiting 10s...
+13:27:52 |   Progress: 1470/26356 (1470 successful, 0 failed)
+13:27:58 |     [Checkpoint saved: 1475 listings]
+13:27:59 | Rate limited, waiting 10s...
+13:28:14 |   Progress: 1480/26356 (1480 successful, 0 failed)
+13:28:23 | Rate limited, waiting 10s...
+13:28:36 |   Progress: 1490/26356 (1490 successful, 0 failed)
+13:28:48 |   Progress: 1500/26356 (1500 successful, 0 failed)
+13:28:48 |     [Checkpoint saved: 1500 listings]
+13:28:49 | Rate limited, waiting 10s...
+13:29:10 |   Progress: 1510/26356 (1510 successful, 0 failed)
+13:29:12 | Rate limited, waiting 10s...
+13:29:32 |   Progress: 1520/26356 (1520 successful, 0 failed)
+13:29:34 | Rate limited, waiting 10s...
+13:29:49 |     [Checkpoint saved: 1525 listings]
+13:29:55 | Rate limited, waiting 10s...
+13:30:05 |   Progress: 1530/26356 (1530 successful, 0 failed)
+13:30:17 |   Progress: 1540/26356 (1540 successful, 0 failed)
+13:30:18 | Rate limited, waiting 10s...
+13:30:40 |   Progress: 1550/26356 (1550 successful, 0 failed)
+13:30:40 |     [Checkpoint saved: 1550 listings]
+13:30:42 | Rate limited, waiting 10s...
+13:31:02 |   Progress: 1560/26356 (1560 successful, 0 failed)
+13:31:05 | Rate limited, waiting 10s...
+13:31:24 |   Progress: 1570/26356 (1570 successful, 0 failed)
+13:31:30 | Rate limited, waiting 10s...
+13:31:40 |     [Checkpoint saved: 1575 listings]
+13:31:46 |   Progress: 1580/26356 (1580 successful, 0 failed)
+13:31:53 | Rate limited, waiting 10s...
+13:32:08 |   Progress: 1590/26356 (1590 successful, 0 failed)
+13:32:16 | Rate limited, waiting 10s...
+13:32:30 |   Progress: 1600/26356 (1600 successful, 0 failed)
+13:32:30 |     [Checkpoint saved: 1600 listings]
+13:32:38 | Rate limited, waiting 10s...
+13:32:52 |   Progress: 1610/26356 (1610 successful, 0 failed)
+13:32:59 | Rate limited, waiting 10s...
+13:33:15 |   Progress: 1620/26356 (1620 successful, 0 failed)
+13:33:21 |     [Checkpoint saved: 1625 listings]
+13:33:25 | Rate limited, waiting 10s...
+13:33:37 |   Progress: 1630/26356 (1630 successful, 0 failed)
+13:33:49 |   Progress: 1640/26356 (1640 successful, 0 failed)
+13:33:51 | Rate limited, waiting 10s...
+13:34:11 |   Progress: 1650/26356 (1650 successful, 0 failed)
+13:34:11 |     [Checkpoint saved: 1650 listings]
+13:34:13 | Rate limited, waiting 10s...
+13:34:33 |   Progress: 1660/26356 (1660 successful, 0 failed)
+13:34:34 | Rate limited, waiting 10s...
+13:34:55 |   Progress: 1670/26356 (1670 successful, 0 failed)
+13:34:56 | Rate limited, waiting 10s...
+13:35:11 |     [Checkpoint saved: 1675 listings]
+13:35:17 |   Progress: 1680/26356 (1680 successful, 0 failed)
+13:35:19 | Rate limited, waiting 10s...
+13:35:40 |   Progress: 1690/26356 (1690 successful, 0 failed)
+13:35:43 | Rate limited, waiting 10s...
+13:36:02 |   Progress: 1700/26356 (1700 successful, 0 failed)
+13:36:02 |     [Checkpoint saved: 1700 listings]
+13:36:08 | Rate limited, waiting 10s...
+13:36:24 |   Progress: 1710/26356 (1710 successful, 0 failed)
+13:36:31 | Rate limited, waiting 10s...
+13:36:47 |   Progress: 1720/26356 (1720 successful, 0 failed)
+13:36:53 |     [Checkpoint saved: 1725 listings]
+13:36:55 | Rate limited, waiting 10s...
+13:37:09 |   Progress: 1730/26356 (1730 successful, 0 failed)
+13:37:18 | Rate limited, waiting 10s...
+13:37:31 |   Progress: 1740/26356 (1740 successful, 0 failed)
+13:37:40 | Rate limited, waiting 10s...
+13:37:53 |   Progress: 1750/26356 (1750 successful, 0 failed)
+13:37:53 |     [Checkpoint saved: 1750 listings]
+13:38:03 | Rate limited, waiting 10s...
+13:38:15 |   Progress: 1760/26356 (1760 successful, 0 failed)
+13:38:27 |   Progress: 1770/26356 (1770 successful, 0 failed)
+13:38:28 | Rate limited, waiting 10s...
+13:38:43 |     [Checkpoint saved: 1775 listings]
+13:38:49 |   Progress: 1780/26356 (1780 successful, 0 failed)
+13:38:51 | Rate limited, waiting 10s...
+13:39:11 |   Progress: 1790/26356 (1790 successful, 0 failed)
+13:39:13 | Rate limited, waiting 10s...
+13:39:33 |   Progress: 1800/26356 (1800 successful, 0 failed)
+13:39:33 |     [Checkpoint saved: 1800 listings]
+13:39:35 | Rate limited, waiting 10s...
+13:39:55 |   Progress: 1810/26356 (1810 successful, 0 failed)
+13:39:56 | Rate limited, waiting 10s...
+13:40:17 |   Progress: 1820/26356 (1820 successful, 0 failed)
+13:40:19 | Rate limited, waiting 10s...
+13:40:34 |     [Checkpoint saved: 1825 listings]
+13:40:39 |   Progress: 1830/26356 (1830 successful, 0 failed)
+13:40:43 | Rate limited, waiting 10s...
+13:41:02 |   Progress: 1840/26356 (1840 successful, 0 failed)
+13:41:08 | Rate limited, waiting 10s...
+13:41:24 |   Progress: 1850/26356 (1850 successful, 0 failed)
+13:41:24 |     [Checkpoint saved: 1850 listings]
+13:41:31 | Rate limited, waiting 10s...
+13:41:46 |   Progress: 1860/26356 (1860 successful, 0 failed)
+13:41:55 | Rate limited, waiting 10s...
+13:42:09 |   Progress: 1870/26356 (1870 successful, 0 failed)
+13:42:15 |     [Checkpoint saved: 1875 listings]
+13:42:18 | Rate limited, waiting 10s...
+13:42:31 |   Progress: 1880/26356 (1880 successful, 0 failed)
+13:42:42 | Rate limited, waiting 10s...
+13:42:54 |   Progress: 1890/26356 (1890 successful, 0 failed)
+13:43:05 | Rate limited, waiting 10s...
+13:43:16 |   Progress: 1900/26356 (1900 successful, 0 failed)
+13:43:16 |     [Checkpoint saved: 1900 listings]
+13:43:27 |   Progress: 1910/26356 (1910 successful, 0 failed)
+13:43:28 | Rate limited, waiting 10s...
+13:43:50 |   Progress: 1920/26356 (1920 successful, 0 failed)
+13:43:53 | Rate limited, waiting 10s...
+13:44:06 |     [Checkpoint saved: 1925 listings]
+13:44:11 |   Progress: 1930/26356 (1930 successful, 0 failed)
+13:44:15 | Rate limited, waiting 10s...
+13:44:33 |   Progress: 1940/26356 (1940 successful, 0 failed)
+13:44:37 | Rate limited, waiting 10s...
+13:44:55 |   Progress: 1950/26356 (1950 successful, 0 failed)
+13:44:56 |     [Checkpoint saved: 1950 listings]
+13:44:59 | Rate limited, waiting 10s...
+13:45:18 |   Progress: 1960/26356 (1960 successful, 0 failed)
+13:45:23 | Rate limited, waiting 10s...
+13:45:40 |   Progress: 1970/26356 (1970 successful, 0 failed)
+13:45:46 |     [Checkpoint saved: 1975 listings]
+13:45:49 | Rate limited, waiting 10s...
+13:46:02 |   Progress: 1980/26356 (1980 successful, 0 failed)
+13:46:12 | Rate limited, waiting 10s...
+13:46:24 |   Progress: 1990/26356 (1990 successful, 0 failed)
+13:46:34 | Rate limited, waiting 10s...
+13:46:46 |   Progress: 2000/26356 (2000 successful, 0 failed)
+13:46:46 |     [Checkpoint saved: 2000 listings]
+13:46:55 | Rate limited, waiting 10s...
+13:47:08 |   Progress: 2010/26356 (2010 successful, 0 failed)
+13:47:16 | Rate limited, waiting 10s...
+13:47:30 |   Progress: 2020/26356 (2020 successful, 0 failed)
+13:47:36 |     [Checkpoint saved: 2025 listings]
+13:47:40 | Rate limited, waiting 10s...
+13:47:52 |   Progress: 2030/26356 (2030 successful, 0 failed)
+13:48:03 | Rate limited, waiting 10s...
+13:48:14 |   Progress: 2040/26356 (2040 successful, 0 failed)
+13:48:26 |   Progress: 2050/26356 (2050 successful, 0 failed)
+13:48:26 |     [Checkpoint saved: 2050 listings]
+13:48:27 | Rate limited, waiting 10s...
+13:48:48 |   Progress: 2060/26356 (2060 successful, 0 failed)
+13:48:53 | Rate limited, waiting 10s...
+13:49:10 |   Progress: 2070/26356 (2070 successful, 0 failed)
+13:49:15 | Rate limited, waiting 10s...
+13:49:27 |     [Checkpoint saved: 2075 listings]
+13:49:32 |   Progress: 2080/26356 (2080 successful, 0 failed)
+13:49:37 | Rate limited, waiting 10s...
+13:49:54 |   Progress: 2090/26356 (2090 successful, 0 failed)
+13:49:59 | Rate limited, waiting 10s...
+13:50:16 |   Progress: 2100/26356 (2100 successful, 0 failed)
+13:50:17 |     [Checkpoint saved: 2100 listings]
+13:50:24 | Rate limited, waiting 10s...
+13:50:39 |   Progress: 2110/26356 (2110 successful, 0 failed)
+13:50:49 | Rate limited, waiting 10s...
+13:51:00 |   Progress: 2120/26356 (2120 successful, 0 failed)
+13:51:07 |     [Checkpoint saved: 2125 listings]
+13:51:13 | Rate limited, waiting 10s...
+13:51:23 |   Progress: 2130/26356 (2130 successful, 0 failed)
+13:51:34 | Rate limited, waiting 10s...
+13:51:46 |   Progress: 2140/26356 (2140 successful, 0 failed)
+13:51:56 | Rate limited, waiting 10s...
+13:52:08 |   Progress: 2150/26356 (2150 successful, 0 failed)
+13:52:08 |     [Checkpoint saved: 2150 listings]
+13:52:20 | Rate limited, waiting 10s...
+13:52:30 |   Progress: 2160/26356 (2160 successful, 0 failed)
+13:52:42 |   Progress: 2170/26356 (2170 successful, 0 failed)
+13:52:44 | Rate limited, waiting 10s...
+13:52:58 |     [Checkpoint saved: 2175 listings]
+13:53:04 |   Progress: 2180/26356 (2180 successful, 0 failed)
+13:53:07 | Rate limited, waiting 10s...
+13:53:26 |   Progress: 2190/26356 (2190 successful, 0 failed)
+13:53:29 | Rate limited, waiting 10s...
+13:53:48 |   Progress: 2200/26356 (2200 successful, 0 failed)
+13:53:48 |     [Checkpoint saved: 2200 listings]
+13:53:53 | Rate limited, waiting 10s...
+13:54:10 |   Progress: 2210/26356 (2210 successful, 0 failed)
+13:54:15 | Rate limited, waiting 10s...
+13:54:32 |   Progress: 2220/26356 (2220 successful, 0 failed)
+13:54:37 | Rate limited, waiting 10s...
+13:54:48 |     [Checkpoint saved: 2225 listings]
+13:54:54 |   Progress: 2230/26356 (2230 successful, 0 failed)
+13:54:59 | Rate limited, waiting 10s...
+13:55:16 |   Progress: 2240/26356 (2240 successful, 0 failed)
+13:55:23 | Rate limited, waiting 10s...
+13:55:38 |   Progress: 2250/26356 (2250 successful, 0 failed)
+13:55:39 |     [Checkpoint saved: 2250 listings]
+13:55:49 | Rate limited, waiting 10s...
+13:56:01 |   Progress: 2260/26356 (2260 successful, 0 failed)
+13:56:11 | Rate limited, waiting 10s...
+13:56:23 |   Progress: 2270/26356 (2270 successful, 0 failed)
+13:56:29 |     [Checkpoint saved: 2275 listings]
+13:56:33 | Rate limited, waiting 10s...
+13:56:45 |   Progress: 2280/26356 (2280 successful, 0 failed)
+13:56:52 | Rate limited, waiting 10s...
+13:57:07 |   Progress: 2290/26356 (2290 successful, 0 failed)
+13:57:14 | Rate limited, waiting 10s...
+13:57:30 |   Progress: 2300/26356 (2300 successful, 0 failed)
+13:57:30 |     [Checkpoint saved: 2300 listings]
+13:57:37 | Rate limited, waiting 10s...
+13:57:52 |   Progress: 2310/26356 (2310 successful, 0 failed)
+13:57:59 | Rate limited, waiting 10s...
+13:58:14 |   Progress: 2320/26356 (2320 successful, 0 failed)
+13:58:20 |     [Checkpoint saved: 2325 listings]
+13:58:25 | Rate limited, waiting 10s...
+13:58:36 |   Progress: 2330/26356 (2330 successful, 0 failed)
+13:58:48 |   Progress: 2340/26356 (2340 successful, 0 failed)
+13:58:49 | Rate limited, waiting 10s...
+13:59:11 |   Progress: 2350/26356 (2350 successful, 0 failed)
+13:59:11 |     [Checkpoint saved: 2350 listings]
+13:59:13 | Rate limited, waiting 10s...
+13:59:33 |   Progress: 2360/26356 (2360 successful, 0 failed)
+13:59:34 | Rate limited, waiting 10s...
+13:59:54 | Rate limited, waiting 10s...
+14:00:06 |   Progress: 2370/26356 (2370 successful, 0 failed)
+14:00:11 |     [Checkpoint saved: 2375 listings]
+14:00:16 | Rate limited, waiting 10s...
+14:00:28 |   Progress: 2380/26356 (2380 successful, 0 failed)
+14:00:39 | Rate limited, waiting 10s...
+14:00:50 |   Progress: 2390/26356 (2390 successful, 0 failed)
+14:01:01 | Rate limited, waiting 10s...
+14:01:12 |   Progress: 2400/26356 (2400 successful, 0 failed)
+14:01:12 |     [Checkpoint saved: 2400 listings]
+14:01:24 |   Progress: 2410/26356 (2410 successful, 0 failed)
+14:01:27 | Rate limited, waiting 10s...
+14:01:46 |   Progress: 2420/26356 (2420 successful, 0 failed)
+14:01:51 | Rate limited, waiting 10s...
+14:02:02 |     [Checkpoint saved: 2425 listings]
+14:02:08 |   Progress: 2430/26356 (2430 successful, 0 failed)
+14:02:15 | Rate limited, waiting 10s...
+14:02:30 |   Progress: 2440/26356 (2440 successful, 0 failed)
+14:02:36 | Rate limited, waiting 10s...
+14:02:52 |   Progress: 2450/26356 (2450 successful, 0 failed)
+14:02:53 |     [Checkpoint saved: 2450 listings]
+14:02:57 | Rate limited, waiting 10s...
+14:03:15 |   Progress: 2460/26356 (2460 successful, 0 failed)
+14:03:21 | Rate limited, waiting 10s...
+14:03:37 |   Progress: 2470/26356 (2470 successful, 0 failed)
+14:03:43 |     [Checkpoint saved: 2475 listings]
+14:03:45 | Rate limited, waiting 10s...
+14:03:59 |   Progress: 2480/26356 (2480 successful, 0 failed)
+14:04:10 | Rate limited, waiting 10s...
+14:04:22 |   Progress: 2490/26356 (2490 successful, 0 failed)
+14:04:32 | Rate limited, waiting 10s...
+14:04:44 |   Progress: 2500/26356 (2500 successful, 0 failed)
+14:04:44 |     [Checkpoint saved: 2500 listings]
+14:04:54 | Rate limited, waiting 10s...
+14:05:06 |   Progress: 2510/26356 (2510 successful, 0 failed)
+14:05:17 | Rate limited, waiting 10s...
+14:05:28 |   Progress: 2520/26356 (2520 successful, 0 failed)
+14:05:34 |     [Checkpoint saved: 2525 listings]
+14:05:40 | Rate limited, waiting 10s...
+14:05:51 |   Progress: 2530/26356 (2530 successful, 0 failed)
+14:06:03 |   Progress: 2540/26356 (2540 successful, 0 failed)
+14:06:05 | Rate limited, waiting 10s...
+14:06:25 |   Progress: 2550/26356 (2550 successful, 0 failed)
+14:06:25 |     [Checkpoint saved: 2550 listings]
+14:06:30 | Rate limited, waiting 10s...
+14:06:47 |   Progress: 2560/26356 (2560 successful, 0 failed)
+14:06:53 | Rate limited, waiting 10s...
+14:07:09 |   Progress: 2570/26356 (2570 successful, 0 failed)
+14:07:15 | Rate limited, waiting 10s...
+14:07:26 |     [Checkpoint saved: 2575 listings]
+14:07:31 |   Progress: 2580/26356 (2580 successful, 0 failed)
+14:07:39 | Rate limited, waiting 10s...
+14:07:54 |   Progress: 2590/26356 (2590 successful, 0 failed)
+14:07:59 | Rate limited, waiting 10s...
+14:08:16 |   Progress: 2600/26356 (2600 successful, 0 failed)
+14:08:16 |     [Checkpoint saved: 2600 listings]
+14:08:25 | Rate limited, waiting 10s...
+14:08:38 |   Progress: 2610/26356 (2610 successful, 0 failed)
+14:08:49 | Rate limited, waiting 10s...
+14:09:00 |   Progress: 2620/26356 (2620 successful, 0 failed)
+14:09:06 |     [Checkpoint saved: 2625 listings]
+14:09:11 | Rate limited, waiting 10s...
+14:09:22 |   Progress: 2630/26356 (2630 successful, 0 failed)
+14:09:32 | Rate limited, waiting 10s...
+14:09:44 |   Progress: 2640/26356 (2640 successful, 0 failed)
+14:09:54 | Rate limited, waiting 10s...
+14:10:06 |   Progress: 2650/26356 (2650 successful, 0 failed)
+14:10:07 |     [Checkpoint saved: 2650 listings]
+14:10:16 | Rate limited, waiting 10s...
+14:10:28 |   Progress: 2660/26356 (2660 successful, 0 failed)
+14:10:38 | Rate limited, waiting 10s...
+14:10:51 |   Progress: 2670/26356 (2670 successful, 0 failed)
+14:10:57 |     [Checkpoint saved: 2675 listings]
+14:11:01 | Rate limited, waiting 10s...
+14:11:13 |   Progress: 2680/26356 (2680 successful, 0 failed)
+14:11:24 |   Progress: 2690/26356 (2690 successful, 0 failed)
+14:11:25 | Rate limited, waiting 10s...
+14:11:46 |   Progress: 2700/26356 (2700 successful, 0 failed)
+14:11:47 |     [Checkpoint saved: 2700 listings]
+14:11:51 | Rate limited, waiting 10s...
+14:12:09 |   Progress: 2710/26356 (2710 successful, 0 failed)
+14:12:13 | Rate limited, waiting 10s...
+14:12:31 |   Progress: 2720/26356 (2720 successful, 0 failed)
+14:12:34 | Rate limited, waiting 10s...
+14:12:47 |     [Checkpoint saved: 2725 listings]
+14:12:52 |   Progress: 2730/26356 (2730 successful, 0 failed)
+14:12:55 | Rate limited, waiting 10s...
+14:13:15 |   Progress: 2740/26356 (2740 successful, 0 failed)
+14:13:18 | Rate limited, waiting 10s...
+14:13:38 |   Progress: 2750/26356 (2750 successful, 0 failed)
+14:13:38 |     [Checkpoint saved: 2750 listings]
+14:13:42 | Rate limited, waiting 10s...
+14:14:00 |   Progress: 2760/26356 (2760 successful, 0 failed)
+14:14:06 | Rate limited, waiting 10s...
+14:14:22 |   Progress: 2770/26356 (2770 successful, 0 failed)
+14:14:28 |     [Checkpoint saved: 2775 listings]
+14:14:29 | Rate limited, waiting 10s...
+14:14:44 |   Progress: 2780/26356 (2780 successful, 0 failed)
+14:14:53 | Rate limited, waiting 10s...
+14:15:07 |   Progress: 2790/26356 (2790 successful, 0 failed)
+14:15:15 | Rate limited, waiting 10s...
+14:15:29 |   Progress: 2800/26356 (2800 successful, 0 failed)
+14:15:29 |     [Checkpoint saved: 2800 listings]
+14:15:37 | Rate limited, waiting 10s...
+14:15:51 |   Progress: 2810/26356 (2810 successful, 0 failed)
+14:15:59 | Rate limited, waiting 10s...
+14:16:13 |   Progress: 2820/26356 (2820 successful, 0 failed)
+14:16:19 |     [Checkpoint saved: 2825 listings]
+14:16:25 | Rate limited, waiting 10s...
+14:16:36 |   Progress: 2830/26356 (2830 successful, 0 failed)
+14:16:47 |   Progress: 2840/26356 (2840 successful, 0 failed)
+14:16:51 | Rate limited, waiting 10s...
+14:17:10 |   Progress: 2850/26356 (2850 successful, 0 failed)
+14:17:10 |     [Checkpoint saved: 2850 listings]
+14:17:13 | Rate limited, waiting 10s...
+14:17:32 |   Progress: 2860/26356 (2860 successful, 0 failed)
+14:17:35 | Rate limited, waiting 10s...
+14:17:54 |   Progress: 2870/26356 (2870 successful, 0 failed)
+14:17:56 | Rate limited, waiting 10s...
+14:18:10 |     [Checkpoint saved: 2875 listings]
+14:18:16 |   Progress: 2880/26356 (2880 successful, 0 failed)
+14:18:20 | Rate limited, waiting 10s...
